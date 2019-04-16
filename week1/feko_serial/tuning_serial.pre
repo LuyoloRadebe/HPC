@@ -11,7 +11,7 @@
 
 ** The number of unknowns can be set with the parameter #azl
 ** as follows:
-#azl = 0.9
+#azl = 1
 
 ** Edge length of the cube
 #a    = 0.1525
