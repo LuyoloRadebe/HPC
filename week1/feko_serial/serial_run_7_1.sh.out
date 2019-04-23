@@ -1,0 +1,132 @@
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 515236
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 2400
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 515236
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Altair Feko - RUNFEKO Version 2018.2.1-12 from 2018-10-19
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+NOTE: Running PREFEKO since file "7_unknowns_1_nodes.fek" not found
+
+Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+
+Creating file 7_unknowns_1_nodes.fek, please be patient ...
+File 7_unknowns_1_nodes.fek has been created:
+  67392 metallic triangles in free space
+
+ 
+
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+File:     7_unknowns_1_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 115.020 GByte)
+
+---> Process    0 of 24 active on cnode0021                   (PID:     2135) using 1 threads
+---> Process    2 of 24 active on cnode0021                   (PID:     2137) using 1 threads
+---> Process    4 of 24 active on cnode0021                   (PID:     2139) using 1 threads
+---> Process    6 of 24 active on cnode0021                   (PID:     2141) using 1 threads
+---> Process    8 of 24 active on cnode0021                   (PID:     2143) using 1 threads
+---> Process    9 of 24 active on cnode0021                   (PID:     2144) using 1 threads
+---> Process   17 of 24 active on cnode0021                   (PID:     2153) using 1 threads
+---> Process   21 of 24 active on cnode0021                   (PID:     2157) using 1 threads
+---> Process    1 of 24 active on cnode0021                   (PID:     2136) using 1 threads
+---> Process    3 of 24 active on cnode0021                   (PID:     2138) using 1 threads
+---> Process    7 of 24 active on cnode0021                   (PID:     2142) using 1 threads
+---> Process   11 of 24 active on cnode0021                   (PID:     2146) using 1 threads
+---> Process   13 of 24 active on cnode0021                   (PID:     2148) using 1 threads
+---> Process   14 of 24 active on cnode0021                   (PID:     2150) using 1 threads
+---> Process   15 of 24 active on cnode0021                   (PID:     2151) using 1 threads
+---> Process   16 of 24 active on cnode0021                   (PID:     2152) using 1 threads
+---> Process   18 of 24 active on cnode0021                   (PID:     2154) using 1 threads
+---> Process   20 of 24 active on cnode0021                   (PID:     2156) using 1 threads
+---> Process   22 of 24 active on cnode0021                   (PID:     2158) using 1 threads
+---> Process   23 of 24 active on cnode0021                   (PID:     2159) using 1 threads
+---> Process   10 of 24 active on cnode0021                   (PID:     2145) using 1 threads
+---> Process   12 of 24 active on cnode0021                   (PID:     2147) using 1 threads
+---> Process   19 of 24 active on cnode0021                   (PID:     2155) using 1 threads
+---> Process    5 of 24 active on cnode0021                   (PID:     2140) using 1 threads
+ Processing the geometrical data for triangles
+   Creating edge interconnectivity data for triangles
+    0%   35%   72%  100%  
+ The following message from the master process (MYID= 0):
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+    See also message in the output file 7_unknowns_1_nodes.out
+ --- Processing frequency 1 of 2 ( 1.37610E+10 Hz)
+ --- Direction of incidence loop: 1 of 2
+ The following message from the master process (MYID= 0):
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+    See also message in the output file 7_unknowns_1_nodes.out
+ Checking the geometrical input data (frequency dependent)
+ Not enough memory for an in-core solution, trying out-of-core ...
+ Out-of-core solution possible (using block size 64)
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ ++ Temporary files are used on the hard disk.          ++
+ ++ Memory requirement on hard disk: 152.754 GByte
+ ++   i.e. 6.365 GByte per process.
+ ++ Environment parameter FEKO_TMPDIR can be used in    ++
+ ++ order to specify the directory for these files.     ++
+ ++ FEKO_TMPDIR is set to the value:                    ++
+ ++ /apps/chpc/compmech/altair/tmp/feko_temp_directory_cnode0021_2112_1555784741/
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ --> Currently a memory of 203.421 MByte has been allocated per process
+     In total, this corresponds to 4.768 GByte for all processes
+     (peak memory usage of 222.931 MByte per process so far)
+ Calculation of the elements of MoM submatrices
+ The following message from the master process (MYID= 0):
+ NOTE      154: Usage of symmetry only possible in part since matrix is in a file
+    See also message in the output file 7_unknowns_1_nodes.out
+   Calculation of submatrices A1x (100% of the full matrix)
+    0%    1%    2%    3%    4%    5%    6%    7%    8%    9%   10%   11%   12%   13%   14%   15%   16%   17%   18%   19%   20%   21%   22%   23%   24%   25%   26%   27%   28%   29%   30%   31%   32%   33%   34%   35%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63% Feko caught signal 15 (PID 2153)
+ The following message from the server process (MYID= 17):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out
+ Feko caught signal 15 (PID 2136) Feko caught signal 15 (PID 2138) Feko caught signal 15 (PID 2139) Feko caught signal 15 (PID 2140) Feko caught signal 15 (PID 2141) Feko caught signal 15 (PID 2143) Feko caught signal 15 (PID 2144)
+ The following message from the server process (MYID= 9):
+ Feko caught signal 15 (PID 2145) Feko caught signal 15 (PID 2146) Feko caught signal 15 (PID 2147) Feko caught signal 15 (PID 2148) Feko caught signal 15 (PID 2150)
+ Feko caught signal 15 (PID 2152)
+ Feko caught signal 15 (PID 2156) Feko caught signal 15 (PID 2157)
+ The following message from the server process (MYID= 21):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out
+ Feko caught signal 15 (PID 2159)
+ Feko caught signal 15 (PID 2135)
+ The following message from the master process (MYID= 0):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out
+ Feko caught signal 15 (PID 2151)
+ The following message from the server process (MYID= 15):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out
+RUNFEKO will be terminated (caught signal 15)
+ Feko caught signal 15 (PID 2142)
+ The following message from the server process (MYID= 7):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out
+ Feko caught signal 15 (PID 2154)
+ The following message from the server process (MYID= 18):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out
+ Feko caught signal 15 (PID 2155)
+ The following message from the server process (MYID= 19):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 7_unknowns_1_nodes.out

@@ -1,0 +1,2 @@
+[cnode0004:147358] [[38451,0],0] tcp_peer_recv_connect_ack: received different version from [[38451,1],1]: 1.8.8 instead of 1.10.2
+[cnode0004:147358] [[38451,0],0] tcp_peer_recv_connect_ack: received different version from [[38451,1],0]: 1.8.8 instead of 1.10.2

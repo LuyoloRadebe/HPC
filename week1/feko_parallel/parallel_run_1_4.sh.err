@@ -1,0 +1,6 @@
+[mpiexec@cnode0104] control_cb (../../pm/pmiserv/pmiserv_cb.c:893): assert (!closed) failed
+[mpiexec@cnode0104] HYDT_dmxu_poll_wait_for_event (../../tools/demux/demux_poll.c:76): callback returned error status
+[mpiexec@cnode0104] HYD_pmci_wait_for_completion (../../pm/pmiserv/pmiserv_pmci.c:507): error waiting for event
+[mpiexec@cnode0104] main (../../ui/mpich/mpiexec.c:1148): process manager error waiting for completion
+Warning: Permanently added 'cnode0117' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'cnode0120' (ECDSA) to the list of known hosts.

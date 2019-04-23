@@ -1,0 +1,222 @@
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 515236
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 2400
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 515236
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Altair Feko - RUNFEKO Version 2018.2.1-12 from 2018-10-19
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+NOTE: Running PREFEKO since file "3_unknowns_2_nodes.fek" not found
+
+Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+
+Creating file 3_unknowns_2_nodes.fek, please be patient ...
+File 3_unknowns_2_nodes.fek has been created:
+  12544 metallic triangles in free space
+
+ 
+
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+File:     3_unknowns_2_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 116.700 GByte)
+
+---> Process    0 of 48 active on cnode0117                   (PID:   113136) using 1 threads
+---> Process    1 of 48 active on cnode0117                   (PID:   113137) using 1 threads
+---> Process    3 of 48 active on cnode0117                   (PID:   113139) using 1 threads
+---> Process    4 of 48 active on cnode0117                   (PID:   113140) using 1 threads
+---> Process    8 of 48 active on cnode0117                   (PID:   113144) using 1 threads
+---> Process   11 of 48 active on cnode0117                   (PID:   113147) using 1 threads
+---> Process   12 of 48 active on cnode0117                   (PID:   113148) using 1 threads
+---> Process    2 of 48 active on cnode0117                   (PID:   113138) using 1 threads
+---> Process    5 of 48 active on cnode0117                   (PID:   113141) using 1 threads
+---> Process    7 of 48 active on cnode0117                   (PID:   113143) using 1 threads
+---> Process   10 of 48 active on cnode0117                   (PID:   113146) using 1 threads
+---> Process   13 of 48 active on cnode0117                   (PID:   113149) using 1 threads
+---> Process   17 of 48 active on cnode0117                   (PID:   113153) using 1 threads
+---> Process   20 of 48 active on cnode0117                   (PID:   113156) using 1 threads
+---> Process   22 of 48 active on cnode0117                   (PID:   113158) using 1 threads
+---> Process   23 of 48 active on cnode0117                   (PID:   113159) using 1 threads
+---> Process    6 of 48 active on cnode0117                   (PID:   113142) using 1 threads
+---> Process    9 of 48 active on cnode0117                   (PID:   113145) using 1 threads
+---> Process   14 of 48 active on cnode0117                   (PID:   113150) using 1 threads
+---> Process   15 of 48 active on cnode0117                   (PID:   113151) using 1 threads
+---> Process   16 of 48 active on cnode0117                   (PID:   113152) using 1 threads
+---> Process   24 of 48 active on cnode0120                   (PID:   187886) using 1 threads
+---> Process   27 of 48 active on cnode0120                   (PID:   187889) using 1 threads
+---> Process   29 of 48 active on cnode0120                   (PID:   187891) using 1 threads
+---> Process   30 of 48 active on cnode0120                   (PID:   187892) using 1 threads
+---> Process   31 of 48 active on cnode0120                   (PID:   187893) using 1 threads
+---> Process   32 of 48 active on cnode0120                   (PID:   187894) using 1 threads
+---> Process   34 of 48 active on cnode0120                   (PID:   187896) using 1 threads
+---> Process   35 of 48 active on cnode0120                   (PID:   187897) using 1 threads
+---> Process   36 of 48 active on cnode0120                   (PID:   187898) using 1 threads
+---> Process   37 of 48 active on cnode0120                   (PID:   187899) using 1 threads
+---> Process   38 of 48 active on cnode0120                   (PID:   187900) using 1 threads
+---> Process   39 of 48 active on cnode0120                   (PID:   187901) using 1 threads
+---> Process   40 of 48 active on cnode0120                   (PID:   187902) using 1 threads
+---> Process   43 of 48 active on cnode0120                   (PID:   187905) using 1 threads
+---> Process   44 of 48 active on cnode0120                   (PID:   187906) using 1 threads
+---> Process   45 of 48 active on cnode0120                   (PID:   187907) using 1 threads
+---> Process   46 of 48 active on cnode0120                   (PID:   187908) using 1 threads
+---> Process   47 of 48 active on cnode0120                   (PID:   187909) using 1 threads
+---> Process   26 of 48 active on cnode0120                   (PID:   187888) using 1 threads
+---> Process   28 of 48 active on cnode0120                   (PID:   187890) using 1 threads
+---> Process   41 of 48 active on cnode0120                   (PID:   187903) using 1 threads
+---> Process   42 of 48 active on cnode0120                   (PID:   187904) using 1 threads
+---> Process   25 of 48 active on cnode0120                   (PID:   187887) using 1 threads
+---> Process   33 of 48 active on cnode0120                   (PID:   187895) using 1 threads
+---> Process   21 of 48 active on cnode0117                   (PID:   113157) using 1 threads
+---> Process   18 of 48 active on cnode0117                   (PID:   113154) using 1 threads
+---> Process   19 of 48 active on cnode0117                   (PID:   113155) using 1 threads
+ Processing the geometrical data for triangles
+   Creating edge interconnectivity data for triangles
+    0%  100%  
+ The following message from the master process (MYID= 0):
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+    See also message in the output file 3_unknowns_2_nodes.out
+ --- Processing frequency 1 of 2 ( 5.89756E+09 Hz)
+ --- Direction of incidence loop: 1 of 2
+ The following message from the master process (MYID= 0):
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+    See also message in the output file 3_unknowns_2_nodes.out
+ Checking the geometrical input data (frequency dependent)
+ Parallel in-core solution (using block size 128, storage scheme 1)
+ --> Currently a memory of 120.026 MByte has been allocated per process
+     In total, this corresponds to 5.335 GByte for all processes
+     (peak memory usage of 120.026 MByte per process so far)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    4%    5%    8%    9%   12%   13%   16%   17%   20%   21%   24%   25%   26%   28%   29%   32%   33%   34%   37%   38%   41%   42%   45%   46%   49%   50%   53%   54%   57%   58%   61%   62%   65%   66%   69%   70%   73%   74%   75%   77%   78%   81%   82%   83%   86%   87%   90%   91%   94%   95%   98%   99%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    5%   15%   25%   34%   43%   53%   62%   71%   81%   90%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    3%    4%    5%    7%    8%   11%   12%   13%   14%   16%   18%   19%   21%   22%   23%   25%   27%   28%   29%   30%   32%   33%   34%   36%   37%   39%   40%   41%   42%   43%   45%   46%   47%   48%   49%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   62%   63%   64%   65%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+  100%  
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+    0%    5%   89%  100%  
+ Calculate the magnetic near field
+  100%  
+ --- Direction of incidence loop: 2 of 2
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+   99%  100%  
+ Calculate the magnetic near field
+  100%  
+ --- Processing frequency 2 of 2 ( 7.07707E+09 Hz)
+ --- Direction of incidence loop: 1 of 2
+ Checking the geometrical input data (frequency dependent)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    4%    5%    8%    9%   12%   13%   16%   17%   20%   21%   24%   25%   26%   28%   29%   32%   33%   34%   37%   38%   41%   42%   45%   46%   49%   50%   53%   54%   57%   58%   61%   62%   65%   66%   69%   70%   73%   74%   75%   77%   78%   81%   82%   83%   86%   87%   90%   91%   94%   95%   98%   99%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    6%   16%   26%   36%   46%   56%   66%   76%   86%   96%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    3%    4%    5%    7%    8%   11%   12%   13%   14%   16%   18%   19%   21%   22%   23%   25%   27%   28%   29%   30%   32%   33%   34%   36%   37%   39%   40%   41%   42%   43%   45%   46%   47%   48%   49%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   62%   63%   64%   65%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+  100%  
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+  100%  
+ Calculate the magnetic near field
+   24%  100%  
+ --- Direction of incidence loop: 2 of 2
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   Backward substitution
+ Determination of the impedances and powers
+  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+   65%  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+  100%  
+ Calculate the magnetic near field
+   55%  100%  
+
+Finished

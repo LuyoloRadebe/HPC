@@ -1,0 +1,38 @@
+#!/bin/bash
+#PBS -l select=10:ncpus=24:mpiprocs=24:nodetype=haswell_reg
+#PBS -P CSCI1214
+#PBS -q normal
+#PBS -l walltime=0:30:00
+#PBS -S /bin/bash
+#PBS -o /mnt/lustre/users/lradebe/HPC/week1/feko_parallel/parallel_run_8_10.sh.out
+#PBS -e /mnt/lustre/users/lradebe/HPC/week1/feko_parallel/parallel_run_8_10.sh.err
+#PBS -m abe
+#PBS -M 18301088@sun.ac.za
+
+# ---------------------------------------------------------------------------------------
+# Author: Luyolo Radebe
+# Date  : 2019-04-15
+# Model : parallel_tuning.pre
+# Description : 
+#		This runs the tuning_4.pre FEKO script in parallel
+# ---------------------------------------------------------------------------------------
+
+# FEKO PATH
+PATH_TO_FEKO=/apps/chpc/compmech/altair/feko2018.2/altair/feko/
+export FEKOJOBDIR=/mnt/lustre/users/lradebe/HPC/week1/feko_parallel
+# FEKO_TMPDIR
+export FEKO_TMPDIR=./tmp
+
+cd $FEKOJOBDIR
+# additional setup
+ulimit -s unlimited
+ulimit -n 2400
+ulimit -a
+
+export ALTAIR_LICENSE_PATH=6200@chpcviz1
+export FEKO_CSV_RESOURCE_REPORTING_PRESET=use_envvars
+. $PATH_TO_FEKO/bin/initfeko
+export FEKO_MAXALLOCM=$((125*1024))
+export FEKO_WHICH_MPI=11
+
+runfeko 8_unknowns_10_nodes.pre --use-job-scheduler

@@ -1,0 +1,2 @@
+=>> PBS: job killed: walltime 1825 exceeded limit 1800
+/apps/chpc/compmech/altair/feko2018.2/altair/feko/bin/feko_parallel: line 1201: 169749 Terminated              $mpi_command < /dev/null

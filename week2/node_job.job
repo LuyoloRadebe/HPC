@@ -1,0 +1,27 @@
+#!/bin/bash
+#PBS -l select=2:ncpus=24:mpiprocs=24:nodetype=haswell_reg
+#PBS -P CSCI1214
+#PBS -q normal
+#PBS -l walltime=00:05:00
+#PBS -S /bin/bash
+#PBS -o /mnt/lustre/users/lradebe/HPC/week2/node_job.sh.out
+#PBS -e /mnt/lustre/users/lradebe/HPC/week2/node_job.sh.err
+#PBS -m abe
+#PBS -M 18301088@sun.ac.za
+
+# ---------------------------------------------------------------------------------------
+# Author: Luyolo Radebe
+# Date  : 2019-04-23
+# Model : parallel_tuning.pre
+# Description : 
+#		This runs mpi-week-2 in parallel
+# ---------------------------------------------------------------------------------------
+
+module add chpc/openmpi/1.10.2/gcc-5.1.0
+
+np=$(wc -l < ${PBS_NODEFILE})
+
+cd ${PBS_O_WORKDIR}
+echo "The nodefile for this job is stored at ${PBS_NODEFILE}" 
+echo "Number of cores assigned: ${np}"
+mpirun -np 25 mpi-week-2

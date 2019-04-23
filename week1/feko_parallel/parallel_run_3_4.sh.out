@@ -1,0 +1,270 @@
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 515236
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 2400
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 515236
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Altair Feko - RUNFEKO Version 2018.2.1-12 from 2018-10-19
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+NOTE: Running PREFEKO since file "3_unknowns_4_nodes.fek" not found
+
+Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+
+Creating file 3_unknowns_4_nodes.fek, please be patient ...
+File 3_unknowns_4_nodes.fek has been created:
+  12544 metallic triangles in free space
+
+ 
+
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+File:     3_unknowns_4_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 116.975 GByte)
+
+---> Process    0 of 96 active on cnode0149                   (PID:    63010) using 1 threads
+---> Process    1 of 96 active on cnode0149                   (PID:    63011) using 1 threads
+---> Process   46 of 96 active on cnode0151                   (PID:   115387) using 1 threads
+---> Process    2 of 96 active on cnode0149                   (PID:    63012) using 1 threads
+---> Process   33 of 96 active on cnode0151                   (PID:   115374) using 1 threads
+---> Process    4 of 96 active on cnode0149                   (PID:    63014) using 1 threads
+---> Process   34 of 96 active on cnode0151                   (PID:   115375) using 1 threads
+---> Process    5 of 96 active on cnode0149                   (PID:    63015) using 1 threads
+---> Process   36 of 96 active on cnode0151                   (PID:   115377) using 1 threads
+---> Process   10 of 96 active on cnode0149                   (PID:    63020) using 1 threads
+---> Process   24 of 96 active on cnode0151                   (PID:   115365) using 1 threads
+---> Process   16 of 96 active on cnode0149                   (PID:    63026) using 1 threads
+---> Process   28 of 96 active on cnode0151                   (PID:   115369) using 1 threads
+---> Process    6 of 96 active on cnode0149                   (PID:    63016) using 1 threads
+---> Process   45 of 96 active on cnode0151                   (PID:   115386) using 1 threads
+---> Process    7 of 96 active on cnode0149                   (PID:    63017) using 1 threads
+---> Process   30 of 96 active on cnode0151                   (PID:   115371) using 1 threads
+---> Process   12 of 96 active on cnode0149                   (PID:    63022) using 1 threads
+---> Process   32 of 96 active on cnode0151                   (PID:   115373) using 1 threads
+---> Process   14 of 96 active on cnode0149                   (PID:    63024) using 1 threads
+---> Process   35 of 96 active on cnode0151                   (PID:   115376) using 1 threads
+---> Process   15 of 96 active on cnode0149                   (PID:    63025) using 1 threads
+---> Process   41 of 96 active on cnode0151                   (PID:   115382) using 1 threads
+---> Process   17 of 96 active on cnode0149                   (PID:    63027) using 1 threads
+---> Process   19 of 96 active on cnode0149                   (PID:    63029) using 1 threads
+---> Process   20 of 96 active on cnode0149                   (PID:    63030) using 1 threads
+---> Process    9 of 96 active on cnode0149                   (PID:    63019) using 1 threads
+---> Process   25 of 96 active on cnode0151                   (PID:   115366) using 1 threads
+---> Process   48 of 96 active on cnode0153                   (PID:   102595) using 1 threads
+---> Process    3 of 96 active on cnode0149                   (PID:    63013) using 1 threads
+---> Process   26 of 96 active on cnode0151                   (PID:   115367) using 1 threads
+---> Process   50 of 96 active on cnode0153                   (PID:   102597) using 1 threads
+---> Process    8 of 96 active on cnode0149                   (PID:    63018) using 1 threads
+---> Process   27 of 96 active on cnode0151                   (PID:   115368) using 1 threads
+---> Process   52 of 96 active on cnode0153                   (PID:   102599) using 1 threads
+---> Process   11 of 96 active on cnode0149                   (PID:    63021) using 1 threads
+---> Process   29 of 96 active on cnode0151                   (PID:   115370) using 1 threads
+---> Process   56 of 96 active on cnode0153                   (PID:   102603) using 1 threads
+---> Process   18 of 96 active on cnode0149                   (PID:    63028) using 1 threads
+---> Process   37 of 96 active on cnode0151                   (PID:   115378) using 1 threads
+---> Process   60 of 96 active on cnode0153                   (PID:   102607) using 1 threads
+---> Process   21 of 96 active on cnode0149                   (PID:    63031) using 1 threads
+---> Process   38 of 96 active on cnode0151                   (PID:   115379) using 1 threads
+---> Process   65 of 96 active on cnode0153                   (PID:   102612) using 1 threads
+---> Process   22 of 96 active on cnode0149                   (PID:    63032) using 1 threads
+---> Process   40 of 96 active on cnode0151                   (PID:   115381) using 1 threads
+---> Process   66 of 96 active on cnode0153                   (PID:   102613) using 1 threads
+---> Process   23 of 96 active on cnode0149                   (PID:    63033) using 1 threads
+---> Process   42 of 96 active on cnode0151                   (PID:   115383) using 1 threads
+---> Process   49 of 96 active on cnode0153                   (PID:   102596) using 1 threads
+---> Process   43 of 96 active on cnode0151                   (PID:   115384) using 1 threads
+---> Process   55 of 96 active on cnode0153                   (PID:   102602) using 1 threads
+---> Process   44 of 96 active on cnode0151                   (PID:   115385) using 1 threads
+---> Process   57 of 96 active on cnode0153                   (PID:   102604) using 1 threads
+---> Process   47 of 96 active on cnode0151                   (PID:   115388) using 1 threads
+---> Process   58 of 96 active on cnode0153                   (PID:   102605) using 1 threads
+---> Process   39 of 96 active on cnode0151                   (PID:   115380) using 1 threads
+---> Process   62 of 96 active on cnode0153                   (PID:   102609) using 1 threads
+---> Process   69 of 96 active on cnode0153                   (PID:   102616) using 1 threads
+---> Process   70 of 96 active on cnode0153                   (PID:   102617) using 1 threads
+---> Process   61 of 96 active on cnode0153                   (PID:   102608) using 1 threads
+---> Process   63 of 96 active on cnode0153                   (PID:   102610) using 1 threads
+---> Process   67 of 96 active on cnode0153                   (PID:   102614) using 1 threads
+---> Process   13 of 96 active on cnode0149                   (PID:    63023) using 1 threads
+---> Process   54 of 96 active on cnode0153                   (PID:   102601) using 1 threads
+---> Process   80 of 96 active on cnode0154                   (PID:   166806) using 1 threads
+---> Process   71 of 96 active on cnode0153                   (PID:   102618) using 1 threads
+---> Process   53 of 96 active on cnode0153                   (PID:   102600) using 1 threads
+---> Process   64 of 96 active on cnode0153                   (PID:   102611) using 1 threads
+---> Process   51 of 96 active on cnode0153                   (PID:   102598) using 1 threads
+---> Process   68 of 96 active on cnode0153                   (PID:   102615) using 1 threads
+---> Process   59 of 96 active on cnode0153                   (PID:   102606) using 1 threads
+---> Process   75 of 96 active on cnode0154                   (PID:   166801) using 1 threads
+---> Process   86 of 96 active on cnode0154                   (PID:   166812) using 1 threads
+---> Process   82 of 96 active on cnode0154                   (PID:   166808) using 1 threads
+---> Process   88 of 96 active on cnode0154                   (PID:   166814) using 1 threads
+---> Process   91 of 96 active on cnode0154                   (PID:   166817) using 1 threads
+---> Process   31 of 96 active on cnode0151                   (PID:   115372) using 1 threads
+---> Process   77 of 96 active on cnode0154                   (PID:   166803) using 1 threads
+---> Process   79 of 96 active on cnode0154                   (PID:   166805) using 1 threads
+---> Process   84 of 96 active on cnode0154                   (PID:   166810) using 1 threads
+---> Process   72 of 96 active on cnode0154                   (PID:   166798) using 1 threads
+---> Process   87 of 96 active on cnode0154                   (PID:   166813) using 1 threads
+---> Process   74 of 96 active on cnode0154                   (PID:   166800) using 1 threads
+---> Process   73 of 96 active on cnode0154                   (PID:   166799) using 1 threads
+---> Process   81 of 96 active on cnode0154                   (PID:   166807) using 1 threads
+---> Process   85 of 96 active on cnode0154                   (PID:   166811) using 1 threads
+---> Process   83 of 96 active on cnode0154                   (PID:   166809) using 1 threads
+---> Process   90 of 96 active on cnode0154                   (PID:   166816) using 1 threads
+---> Process   78 of 96 active on cnode0154                   (PID:   166804) using 1 threads
+---> Process   76 of 96 active on cnode0154                   (PID:   166802) using 1 threads
+---> Process   92 of 96 active on cnode0154                   (PID:   166818) using 1 threads
+---> Process   89 of 96 active on cnode0154                   (PID:   166815) using 1 threads
+---> Process   93 of 96 active on cnode0154                   (PID:   166819) using 1 threads
+---> Process   94 of 96 active on cnode0154                   (PID:   166820) using 1 threads
+---> Process   95 of 96 active on cnode0154                   (PID:   166821) using 1 threads
+ Processing the geometrical data for triangles
+   Creating edge interconnectivity data for triangles
+    0%  100%  
+ The following message from the master process (MYID= 0):
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+    See also message in the output file 3_unknowns_4_nodes.out
+ --- Processing frequency 1 of 2 ( 5.89756E+09 Hz)
+ --- Direction of incidence loop: 1 of 2
+ The following message from the master process (MYID= 0):
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+    See also message in the output file 3_unknowns_4_nodes.out
+ Checking the geometrical input data (frequency dependent)
+ Parallel in-core solution (using block size 128, storage scheme 1)
+ --> Currently a memory of 63.027 MByte has been allocated per process
+     In total, this corresponds to 5.395 GByte for all processes
+     (peak memory usage of 63.027 MByte per process so far)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    5%    6%   11%   12%   16%   17%   22%   23%   27%   28%   32%   33%   38%   39%   43%   44%   49%   50%   54%   55%   60%   61%   65%   66%   71%   72%   76%   77%   82%   83%   87%   88%   93%   94%   98%   99%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    8%   24%   41%   57%   73%   90%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    1%    3%    4%    5%    7%    8%    9%   11%   12%   13%   14%   16%   17%   18%   19%   21%   22%   23%   24%   25%   27%   28%   29%   30%   31%   32%   33%   34%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63%   64%   65%   66%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   81%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+  100%  
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+   17%  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+    0%  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+    0%    3%    7%   10%   13%   16%   19%   22%   24%   27%   30%   34%   37%   40%   43%   46%   48%   51%   53%   56%   59%   62%   65%   69%   72%   75%   78%   81%   84%   86%   89%   92%   95%   98%  100%  
+ Calculate the magnetic near field
+    0%    4%    7%   10%   13%   16%   19%   22%   25%   27%   31%   34%   36%   40%   43%   45%   48%   50%   52%   55%   58%   61%   63%   67%   70%   73%   76%   79%   82%   84%   87%   90%   93%   96%   99%  100%  
+ --- Direction of incidence loop: 2 of 2
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+   17%  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+    0%  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+    2%    4%    7%    9%   11%   14%   17%   20%   23%   26%   29%   32%   35%   39%   41%   43%   45%   48%   50%   53%   55%   58%   62%   65%   69%   72%   75%   79%   82%   84%   87%   90%   93%   95%   97%  100%  100%  
+ Calculate the magnetic near field
+    2%    5%    7%   10%   13%   16%   19%   23%   26%   29%   31%   34%   36%   39%   43%   45%   48%   51%   53%   57%   59%   61%   64%   67%   71%   73%   76%   79%   82%   86%   88%   91%   93%   97%  100%  100%  
+ --- Processing frequency 2 of 2 ( 7.07707E+09 Hz)
+ --- Direction of incidence loop: 1 of 2
+ Checking the geometrical input data (frequency dependent)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    5%    6%   11%   12%   16%   17%   22%   23%   27%   28%   32%   33%   38%   39%   43%   44%   49%   50%   54%   55%   60%   61%   65%   66%   71%   72%   76%   77%   82%   83%   87%   88%   93%   94%   98%   99%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    8%   24%   40%   57%   73%   89%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    3%    4%    5%    7%    8%    9%   11%   12%   13%   14%   16%   17%   18%   19%   21%   22%   23%   24%   25%   27%   28%   29%   30%   31%   32%   33%   34%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63%   64%   65%   66%   67%   68%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   81%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+  100%  
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+   14%  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+    0%  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+    1%    3%    7%   10%   12%   15%   18%   20%   23%   27%   30%   33%   36%   40%   41%   44%   46%   49%   51%   54%   56%   58%   60%   63%   67%   70%   72%   74%   76%   79%   81%   85%   88%   91%   94%   96%   98%  100%  
+ Calculate the magnetic near field
+    1%    4%    7%   10%   12%   15%   17%   20%   23%   26%   29%   33%   36%   40%   43%   45%   48%   51%   54%   56%   59%   62%   64%   67%   69%   71%   74%   77%   80%   83%   85%   88%   91%   94%   97%   99%  100%  
+ --- Direction of incidence loop: 2 of 2
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+   14%  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+    0%  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+    1%    5%    8%   11%   15%   18%   21%   24%   28%   31%   34%   37%   40%   44%   46%   49%   52%   54%   57%   59%   61%   64%   66%   70%   73%   75%   77%   80%   83%   86%   88%   91%   93%   95%   97%  100%  
+ Calculate the magnetic near field
+    0%    3%    7%   11%   14%   17%   21%   25%   27%   29%   32%   34%   37%   39%   41%   45%   47%   50%   52%   56%   59%   63%   66%   68%   72%   74%   77%   80%   83%   85%   87%   89%   91%   95%   98%  100%  
+
+Finished

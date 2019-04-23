@@ -1,0 +1,534 @@
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 515236
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 2400
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 515236
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Altair Feko - RUNFEKO Version 2018.2.1-12 from 2018-10-19
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+NOTE: Running PREFEKO since file "8_unknowns_4_nodes.fek" not found
+
+Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+
+Creating file 8_unknowns_4_nodes.fek, please be patient ...
+File 8_unknowns_4_nodes.fek has been created:
+  87872 metallic triangles in free space
+
+ 
+
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+File:     8_unknowns_4_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 109.643 GByte)
+
+---> Process    0 of 96 active on cnode0154                   (PID:   169762) using 1 threads
+---> Process   32 of 96 active on cnode0155                   (PID:    82559) using 1 threads
+---> Process   70 of 96 active on cnode0156                   (PID:   119966) using 1 threads
+---> Process   76 of 96 active on cnode0160                   (PID:    83305) using 1 threads
+---> Process    1 of 96 active on cnode0154                   (PID:   169763) using 1 threads
+---> Process   33 of 96 active on cnode0155                   (PID:    82560) using 1 threads
+---> Process   67 of 96 active on cnode0156                   (PID:   119963) using 1 threads
+---> Process   82 of 96 active on cnode0160                   (PID:    83311) using 1 threads
+---> Process    2 of 96 active on cnode0154                   (PID:   169764) using 1 threads
+---> Process   34 of 96 active on cnode0155                   (PID:    82561) using 1 threads
+---> Process   48 of 96 active on cnode0156                   (PID:   119944) using 1 threads
+---> Process   84 of 96 active on cnode0160                   (PID:    83313) using 1 threads
+---> Process   16 of 96 active on cnode0154                   (PID:   169778) using 1 threads
+---> Process   35 of 96 active on cnode0155                   (PID:    82562) using 1 threads
+---> Process   66 of 96 active on cnode0156                   (PID:   119962) using 1 threads
+---> Process   88 of 96 active on cnode0160                   (PID:    83317) using 1 threads
+---> Process    8 of 96 active on cnode0154                   (PID:   169770) using 1 threads
+---> Process   36 of 96 active on cnode0155                   (PID:    82563) using 1 threads
+---> Process   56 of 96 active on cnode0156                   (PID:   119952) using 1 threads
+---> Process   72 of 96 active on cnode0160                   (PID:    83300) using 1 threads
+---> Process    7 of 96 active on cnode0154                   (PID:   169769) using 1 threads
+---> Process   38 of 96 active on cnode0155                   (PID:    82565) using 1 threads
+---> Process   58 of 96 active on cnode0156                   (PID:   119954) using 1 threads
+---> Process   73 of 96 active on cnode0160                   (PID:    83301) using 1 threads
+---> Process   19 of 96 active on cnode0154                   (PID:   169781) using 1 threads
+---> Process   39 of 96 active on cnode0155                   (PID:    82566) using 1 threads
+---> Process   63 of 96 active on cnode0156                   (PID:   119959) using 1 threads
+---> Process   74 of 96 active on cnode0160                   (PID:    83302) using 1 threads
+---> Process   10 of 96 active on cnode0154                   (PID:   169772) using 1 threads
+---> Process   41 of 96 active on cnode0155                   (PID:    82568) using 1 threads
+---> Process   57 of 96 active on cnode0156                   (PID:   119953) using 1 threads
+---> Process   75 of 96 active on cnode0160                   (PID:    83304) using 1 threads
+---> Process    9 of 96 active on cnode0154                   (PID:   169771) using 1 threads
+---> Process   42 of 96 active on cnode0155                   (PID:    82569) using 1 threads
+---> Process   71 of 96 active on cnode0156                   (PID:   119967) using 1 threads
+---> Process   77 of 96 active on cnode0160                   (PID:    83306) using 1 threads
+---> Process    3 of 96 active on cnode0154                   (PID:   169765) using 1 threads
+---> Process   43 of 96 active on cnode0155                   (PID:    82570) using 1 threads
+---> Process   51 of 96 active on cnode0156                   (PID:   119947) using 1 threads
+---> Process   78 of 96 active on cnode0160                   (PID:    83307) using 1 threads
+---> Process    6 of 96 active on cnode0154                   (PID:   169768) using 1 threads
+---> Process   44 of 96 active on cnode0155                   (PID:    82571) using 1 threads
+---> Process   64 of 96 active on cnode0156                   (PID:   119960) using 1 threads
+---> Process   79 of 96 active on cnode0160                   (PID:    83308) using 1 threads
+---> Process   21 of 96 active on cnode0154                   (PID:   169783) using 1 threads
+---> Process   47 of 96 active on cnode0155                   (PID:    82574) using 1 threads
+---> Process   80 of 96 active on cnode0160                   (PID:    83309) using 1 threads
+---> Process   11 of 96 active on cnode0154                   (PID:   169773) using 1 threads
+---> Process   40 of 96 active on cnode0155                   (PID:    82567) using 1 threads
+---> Process   81 of 96 active on cnode0160                   (PID:    83310) using 1 threads
+---> Process   20 of 96 active on cnode0154                   (PID:   169782) using 1 threads
+---> Process   45 of 96 active on cnode0155                   (PID:    82572) using 1 threads
+---> Process   83 of 96 active on cnode0160                   (PID:    83312) using 1 threads
+---> Process   12 of 96 active on cnode0154                   (PID:   169774) using 1 threads
+---> Process   46 of 96 active on cnode0155                   (PID:    82573) using 1 threads
+---> Process   85 of 96 active on cnode0160                   (PID:    83314) using 1 threads
+---> Process   13 of 96 active on cnode0154                   (PID:   169775) using 1 threads
+---> Process   37 of 96 active on cnode0155                   (PID:    82564) using 1 threads
+---> Process   86 of 96 active on cnode0160                   (PID:    83315) using 1 threads
+---> Process   26 of 96 active on cnode0155                   (PID:    82553) using 1 threads
+---> Process   87 of 96 active on cnode0160                   (PID:    83316) using 1 threads
+---> Process   28 of 96 active on cnode0155                   (PID:    82555) using 1 threads
+---> Process   89 of 96 active on cnode0160                   (PID:    83318) using 1 threads
+---> Process   24 of 96 active on cnode0155                   (PID:    82551) using 1 threads
+---> Process   90 of 96 active on cnode0160                   (PID:    83319) using 1 threads
+---> Process   25 of 96 active on cnode0155                   (PID:    82552) using 1 threads
+---> Process   91 of 96 active on cnode0160                   (PID:    83320) using 1 threads
+---> Process   27 of 96 active on cnode0155                   (PID:    82554) using 1 threads
+---> Process   92 of 96 active on cnode0160                   (PID:    83321) using 1 threads
+---> Process   18 of 96 active on cnode0154                   (PID:   169780) using 1 threads
+---> Process   29 of 96 active on cnode0155                   (PID:    82556) using 1 threads
+---> Process   93 of 96 active on cnode0160                   (PID:    83322) using 1 threads
+---> Process   30 of 96 active on cnode0155                   (PID:    82557) using 1 threads
+---> Process   95 of 96 active on cnode0160                   (PID:    83324) using 1 threads
+---> Process   31 of 96 active on cnode0155                   (PID:    82558) using 1 threads
+---> Process   94 of 96 active on cnode0160                   (PID:    83323) using 1 threads
+---> Process   14 of 96 active on cnode0154                   (PID:   169776) using 1 threads
+---> Process    4 of 96 active on cnode0154                   (PID:   169766) using 1 threads
+---> Process   50 of 96 active on cnode0156                   (PID:   119946) using 1 threads
+---> Process   17 of 96 active on cnode0154                   (PID:   169779) using 1 threads
+---> Process   52 of 96 active on cnode0156                   (PID:   119948) using 1 threads
+---> Process   49 of 96 active on cnode0156                   (PID:   119945) using 1 threads
+---> Process   69 of 96 active on cnode0156                   (PID:   119965) using 1 threads
+---> Process   65 of 96 active on cnode0156                   (PID:   119961) using 1 threads
+---> Process   68 of 96 active on cnode0156                   (PID:   119964) using 1 threads
+---> Process   62 of 96 active on cnode0156                   (PID:   119958) using 1 threads
+---> Process   61 of 96 active on cnode0156                   (PID:   119957) using 1 threads
+---> Process   59 of 96 active on cnode0156                   (PID:   119955) using 1 threads
+---> Process   60 of 96 active on cnode0156                   (PID:   119956) using 1 threads
+---> Process   22 of 96 active on cnode0154                   (PID:   169784) using 1 threads
+---> Process   54 of 96 active on cnode0156                   (PID:   119950) using 1 threads
+---> Process   23 of 96 active on cnode0154                   (PID:   169785) using 1 threads
+---> Process   53 of 96 active on cnode0156                   (PID:   119949) using 1 threads
+---> Process   55 of 96 active on cnode0156                   (PID:   119951) using 1 threads
+---> Process   15 of 96 active on cnode0154                   (PID:   169777) using 1 threads
+---> Process    5 of 96 active on cnode0154                   (PID:   169767) using 1 threads
+ Processing the geometrical data for triangles
+   Creating edge interconnectivity data for triangles
+    0%   15%   31%   49%   50%   68%   86%  100%  
+ The following message from the master process (MYID= 0):
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+    See also message in the output file 8_unknowns_4_nodes.out
+ --- Processing frequency 1 of 2 ( 1.57268E+10 Hz)
+ --- Direction of incidence loop: 1 of 2
+ The following message from the master process (MYID= 0):
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+    See also message in the output file 8_unknowns_4_nodes.out
+ Checking the geometrical input data (frequency dependent)
+ Parallel in-core solution (using block size 128, storage scheme 1)
+ --> Currently a memory of 2.716 GByte has been allocated per process
+     In total, this corresponds to 259.640 GByte for all processes
+     (peak memory usage of 2.716 GByte per process so far)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    2%    3%    4%    5%    6%    7%    8%    9%   10%   11%   12%   13%   14%   15%   16%   17%   18%   19%   20%   21%   22%   23%   24%   25%   26%   27%   28%   29%   30%   31%   32%   33%   34%   35%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63%   64%   65%   66%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   81%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    0%    1%    2%    3%    4%    5%    6%    7%    8%    9%   10%   11%   12%   13%   14%   15%   16%   17%   18%   19%   20%   21%   22%   23%   24%   25%   26%   27%   28%   29%   30%   31%   32%   33%   34%   35%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63%   64%   65%   66%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   81%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    1%    2%    3%    4% Feko caught signal 15 (PID 169763)
+ The following message from the server process (MYID= 1):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169765) Feko caught signal 15 (PID 169766)
+ The following message from the server process (MYID= 4):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169767)
+ The following message from the server process (MYID= 5):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169768)
+ The following message from the server process (MYID= 6):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169769)
+ The following message from the server process (MYID= 7):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169771)
+ The following message from the server process (MYID= 9):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169772)
+ The following message from the server process (MYID= 10):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169773)
+ The following message from the server process (MYID= 11):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169774)
+ The following message from the server process (MYID= 12):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169777) Feko caught signal 15 (PID 169778)
+ The following message from the server process (MYID= 16):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169779)
+ The following message from the server process (MYID= 17):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169780)
+ The following message from the server process (MYID= 18):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169781)
+ The following message from the server process (MYID= 19):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169782)
+ The following message from the server process (MYID= 20):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169783)
+ The following message from the server process (MYID= 21):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169784)
+ The following message from the server process (MYID= 22):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169785)
+ The following message from the server process (MYID= 23):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169762) Feko caught signal 15 (PID 169770)
+
+ The following message from the master process (MYID= 0):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 8):
+ ERROR    3617: Feko process was terminated by kill
+ Feko caught signal 15 (PID 83301) Feko caught signal 15 (PID 83302) Feko caught signal 15 (PID 83304)
+ Feko caught signal 15 (PID 83305) Feko caught signal 15 Feko caught signal 15 (PID 83309) Feko caught signal 15 (PID 83311)
+ Feko caught signal 15 (PID 83312)
+ Feko caught signal 15 (PID 83314) Feko caught signal 15 (PID 83315)
+ Feko caught signal 15 (PID 83316)
+ Feko caught signal 15 (PID 83300)
+ Feko caught signal 15 (PID 83307) Feko caught signal 15 (PID 83310) Feko caught signal 15 (PID 83313)
+ Feko caught signal 15 (PID 83317) Feko caught signal 15 (PID 83318) Feko caught signal 15 (PID 83319) Feko caught signal 15 (PID 83320) Feko caught signal 15 (PID 83321)
+ Feko caught signal 15 (PID 83322) Feko caught signal 15 (PID 83323) Feko caught signal 15 (PID 83324)
+
+
+
+ Feko caught signal 15 (PID 83308)
+
+
+ The following message from the server process (MYID= 82):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 83):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+
+ The following message from the server process (MYID= 87):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 74):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 75):
+ ERROR    3617: Feko process was terminated by kill
+
+ The following message from the server process (MYID= 79):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 84):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 86):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+
+
+
+
+ The following message from the server process (MYID= 91):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 92):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+
+ The following message from the server process (MYID= 95):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 72):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 73):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 76):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 78):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169776)
+ The following message from the server process (MYID= 80):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 81):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 85):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 89):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 90):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 93):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 88):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ (PID 83306)
+ The following message from the server process (MYID= 14):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 77):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+
+ The following message from the server process (MYID= 94):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 82557) Feko caught signal 15 (PID 82551)
+ Feko caught signal 15 (PID 119947) Feko caught signal 15 (PID 82552) Feko caught signal 15 (PID 119950) Feko caught signal 15 (PID 82553)
+ Feko caught signal 15 (PID 119952) Feko caught signal 15 (PID 82554)
+ Feko caught signal 15 (PID 119953)
+ Feko caught signal 15 (PID 82555)
+
+ Feko caught signal 15 (PID 82556)
+ Feko caught signal 15 (PID 119948)
+ Feko caught signal 15 (PID 82558)
+ Feko caught signal 15 (PID 119954)
+ Feko caught signal 15 (PID 82561)
+ Feko caught signal 15 (PID 119956)
+ Feko caught signal 15 (PID 82564)
+ Feko caught signal 15 (PID 119957)
+ Feko caught signal 15 (PID 119960)
+
+ Feko caught signal 15 (PID 119962)
+ Feko caught signal 15 (PID 82559)
+ Feko caught signal 15 (PID 119963)
+ Feko caught signal 15 (PID 82560)
+ The following message from the server process (MYID= 57):
+ ERROR    3617: Feko process was terminated by kill
+ Feko caught signal 15 (PID 82562)
+ The following message from the server process (MYID= 58):
+ ERROR    3617: Feko process was terminated by kill
+ Feko caught signal 15 (PID 82563)
+ The following message from the server process (MYID= 60):
+ ERROR    3617: Feko process was terminated by kill
+ Feko caught signal 15 (PID 82565)
+ The following message from the server process (MYID= 66):
+ ERROR    3617: Feko process was terminated by kill
+ Feko caught signal 15 (PID 82566)
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 82567)
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 82568)
+ Feko caught signal 15 (PID 82569)
+ Feko caught signal 15 (PID 82571)
+ Feko caught signal 15 (PID 82572)
+ Feko caught signal 15 (PID 82573)
+ The following message from the server process (MYID= 24):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 26):
+ The following message from the server process (MYID= 27):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 45):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 25):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 28):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 29):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 30):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 31):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 32):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 33):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 34):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 35):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 36):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 37):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 39):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 64):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 40):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 41):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 67):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 42):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 82570)
+ The following message from the server process (MYID= 52):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119949)
+ The following message from the server process (MYID= 46):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 53):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 38):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 43):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 44):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 82574)
+ The following message from the server process (MYID= 47):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119964)
+ The following message from the server process (MYID= 68):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119966)
+ The following message from the server process (MYID= 70):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+
+ The following message from the server process (MYID= 56):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119958)
+ Feko caught signal 15 (PID 119961)
+ The following message from the server process (MYID= 62):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 65):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+
+ The following message from the server process (MYID= 54):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119965)
+ The following message from the server process (MYID= 69):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119959)
+ The following message from the server process (MYID= 63):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119951)
+ The following message from the server process (MYID= 55):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119944)
+ The following message from the server process (MYID= 48):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+
+ Feko caught signal 15 (PID 119945)
+ The following message from the server process (MYID= 49):
+ ERROR    3617: Feko process was terminated by kill
+ The following message from the server process (MYID= 61):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119946)
+ The following message from the server process (MYID= 50):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119967)
+ The following message from the server process (MYID= 71):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ The following message from the server process (MYID= 51):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 119955)
+ The following message from the server process (MYID= 59):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out
+ Feko caught signal 15 (PID 169764)
+ The following message from the server process (MYID= 2):
+ ERROR    3617: Feko process was terminated by kill
+    See also message in the output file 8_unknowns_4_nodes.out

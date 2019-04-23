@@ -1,0 +1,414 @@
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 515236
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) unlimited
+open files                      (-n) 2400
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 515236
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Altair Feko - RUNFEKO Version 2018.2.1-12 from 2018-10-19
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+NOTE: Running PREFEKO since file "5_unknowns_10_nodes.fek" not found
+
+Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+
+Creating file 5_unknowns_10_nodes.fek, please be patient ...
+File 5_unknowns_10_nodes.fek has been created:
+  34512 metallic triangles in free space
+
+ 
+
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+
+File:     5_unknowns_10_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 116.639 GByte)
+
+---> Process    0 of 240 active on cnode0159                   (PID:   122706) using 1 threads
+---> Process    2 of 240 active on cnode0159                   (PID:   122708) using 1 threads
+---> Process   73 of 240 active on cnode0193                   (PID:   139608) using 1 threads
+---> Process   32 of 240 active on cnode0182                   (PID:    38654) using 1 threads
+---> Process   96 of 240 active on cnode0202                   (PID:   104707) using 1 threads
+---> Process  120 of 240 active on cnode0191                   (PID:   125211) using 1 threads
+---> Process  144 of 240 active on cnode0216                   (PID:   151266) using 1 threads
+---> Process    4 of 240 active on cnode0159                   (PID:   122710) using 1 threads
+---> Process   85 of 240 active on cnode0193                   (PID:   139620) using 1 threads
+---> Process   26 of 240 active on cnode0182                   (PID:    38648) using 1 threads
+---> Process  100 of 240 active on cnode0202                   (PID:   104711) using 1 threads
+---> Process   48 of 240 active on cnode0190                   (PID:    82105) using 1 threads
+---> Process  124 of 240 active on cnode0191                   (PID:   125215) using 1 threads
+---> Process  145 of 240 active on cnode0216                   (PID:   151267) using 1 threads
+---> Process  182 of 240 active on cnode0218                   (PID:   141970) using 1 threads
+---> Process   18 of 240 active on cnode0159                   (PID:   122724) using 1 threads
+---> Process  192 of 240 active on cnode0220                   (PID:    79969) using 1 threads
+---> Process   74 of 240 active on cnode0193                   (PID:   139609) using 1 threads
+---> Process  216 of 240 active on cnode0224                   (PID:    79179) using 1 threads
+---> Process   28 of 240 active on cnode0182                   (PID:    38650) using 1 threads
+---> Process  105 of 240 active on cnode0202                   (PID:   104716) using 1 threads
+---> Process   54 of 240 active on cnode0190                   (PID:    82111) using 1 threads
+---> Process  128 of 240 active on cnode0191                   (PID:   125219) using 1 threads
+---> Process  151 of 240 active on cnode0216                   (PID:   151273) using 1 threads
+---> Process  184 of 240 active on cnode0218                   (PID:   141972) using 1 threads
+---> Process   22 of 240 active on cnode0159                   (PID:   122729) using 1 threads
+---> Process  203 of 240 active on cnode0220                   (PID:    79980) using 1 threads
+---> Process   76 of 240 active on cnode0193                   (PID:   139611) using 1 threads
+---> Process  219 of 240 active on cnode0224                   (PID:    79182) using 1 threads
+---> Process   34 of 240 active on cnode0182                   (PID:    38656) using 1 threads
+---> Process  112 of 240 active on cnode0202                   (PID:   104723) using 1 threads
+---> Process   58 of 240 active on cnode0190                   (PID:    82115) using 1 threads
+---> Process  136 of 240 active on cnode0191                   (PID:   125227) using 1 threads
+---> Process  160 of 240 active on cnode0216                   (PID:   151282) using 1 threads
+---> Process  168 of 240 active on cnode0218                   (PID:   141956) using 1 threads
+---> Process    1 of 240 active on cnode0159                   (PID:   122707) using 1 threads
+---> Process  205 of 240 active on cnode0220                   (PID:    79982) using 1 threads
+---> Process   80 of 240 active on cnode0193                   (PID:   139615) using 1 threads
+---> Process  222 of 240 active on cnode0224                   (PID:    79185) using 1 threads
+---> Process   36 of 240 active on cnode0182                   (PID:    38658) using 1 threads
+---> Process   97 of 240 active on cnode0202                   (PID:   104708) using 1 threads
+---> Process   60 of 240 active on cnode0190                   (PID:    82117) using 1 threads
+---> Process  138 of 240 active on cnode0191                   (PID:   125229) using 1 threads
+---> Process  161 of 240 active on cnode0216                   (PID:   151283) using 1 threads
+---> Process  169 of 240 active on cnode0218                   (PID:   141957) using 1 threads
+---> Process    5 of 240 active on cnode0159                   (PID:   122711) using 1 threads
+---> Process  210 of 240 active on cnode0220                   (PID:    79987) using 1 threads
+---> Process   82 of 240 active on cnode0193                   (PID:   139617) using 1 threads
+---> Process  218 of 240 active on cnode0224                   (PID:    79181) using 1 threads
+---> Process   38 of 240 active on cnode0182                   (PID:    38660) using 1 threads
+---> Process  101 of 240 active on cnode0202                   (PID:   104712) using 1 threads
+---> Process   64 of 240 active on cnode0190                   (PID:    82121) using 1 threads
+---> Process  140 of 240 active on cnode0191                   (PID:   125231) using 1 threads
+---> Process  162 of 240 active on cnode0216                   (PID:   151284) using 1 threads
+---> Process  172 of 240 active on cnode0218                   (PID:   141960) using 1 threads
+---> Process    6 of 240 active on cnode0159                   (PID:   122712) using 1 threads
+---> Process  213 of 240 active on cnode0220                   (PID:    79990) using 1 threads
+---> Process   84 of 240 active on cnode0193                   (PID:   139619) using 1 threads
+---> Process  220 of 240 active on cnode0224                   (PID:    79183) using 1 threads
+---> Process   46 of 240 active on cnode0182                   (PID:    38668) using 1 threads
+---> Process  110 of 240 active on cnode0202                   (PID:   104721) using 1 threads
+---> Process   66 of 240 active on cnode0190                   (PID:    82123) using 1 threads
+---> Process  122 of 240 active on cnode0191                   (PID:   125213) using 1 threads
+---> Process  163 of 240 active on cnode0216                   (PID:   151285) using 1 threads
+---> Process  177 of 240 active on cnode0218                   (PID:   141965) using 1 threads
+---> Process    8 of 240 active on cnode0159                   (PID:   122714) using 1 threads
+---> Process  193 of 240 active on cnode0220                   (PID:    79970) using 1 threads
+---> Process   88 of 240 active on cnode0193                   (PID:   139623) using 1 threads
+---> Process  225 of 240 active on cnode0224                   (PID:    79188) using 1 threads
+---> Process   24 of 240 active on cnode0182                   (PID:    38646) using 1 threads
+---> Process  111 of 240 active on cnode0202                   (PID:   104722) using 1 threads
+---> Process   68 of 240 active on cnode0190                   (PID:    82125) using 1 threads
+---> Process  125 of 240 active on cnode0191                   (PID:   125216) using 1 threads
+---> Process  165 of 240 active on cnode0216                   (PID:   151287) using 1 threads
+---> Process  180 of 240 active on cnode0218                   (PID:   141968) using 1 threads
+---> Process    9 of 240 active on cnode0159                   (PID:   122715) using 1 threads
+---> Process  194 of 240 active on cnode0220                   (PID:    79971) using 1 threads
+---> Process   89 of 240 active on cnode0193                   (PID:   139624) using 1 threads
+---> Process  228 of 240 active on cnode0224                   (PID:    79191) using 1 threads
+---> Process   29 of 240 active on cnode0182                   (PID:    38651) using 1 threads
+---> Process  113 of 240 active on cnode0202                   (PID:   104724) using 1 threads
+---> Process   70 of 240 active on cnode0190                   (PID:    82127) using 1 threads
+---> Process  126 of 240 active on cnode0191                   (PID:   125217) using 1 threads
+---> Process  146 of 240 active on cnode0216                   (PID:   151268) using 1 threads
+---> Process  185 of 240 active on cnode0218                   (PID:   141973) using 1 threads
+---> Process   10 of 240 active on cnode0159                   (PID:   122716) using 1 threads
+---> Process  201 of 240 active on cnode0220                   (PID:    79978) using 1 threads
+---> Process   90 of 240 active on cnode0193                   (PID:   139625) using 1 threads
+---> Process  229 of 240 active on cnode0224                   (PID:    79192) using 1 threads
+---> Process   40 of 240 active on cnode0182                   (PID:    38662) using 1 threads
+---> Process  116 of 240 active on cnode0202                   (PID:   104727) using 1 threads
+---> Process   49 of 240 active on cnode0190                   (PID:    82106) using 1 threads
+---> Process  127 of 240 active on cnode0191                   (PID:   125218) using 1 threads
+---> Process  147 of 240 active on cnode0216                   (PID:   151269) using 1 threads
+---> Process  188 of 240 active on cnode0218                   (PID:   141976) using 1 threads
+---> Process   12 of 240 active on cnode0159                   (PID:   122718) using 1 threads
+---> Process  202 of 240 active on cnode0220                   (PID:    79979) using 1 threads
+---> Process   93 of 240 active on cnode0193                   (PID:   139628) using 1 threads
+---> Process  234 of 240 active on cnode0224                   (PID:    79197) using 1 threads
+---> Process   41 of 240 active on cnode0182                   (PID:    38663) using 1 threads
+---> Process  117 of 240 active on cnode0202                   (PID:   104728) using 1 threads
+---> Process   50 of 240 active on cnode0190                   (PID:    82107) using 1 threads
+---> Process  129 of 240 active on cnode0191                   (PID:   125220) using 1 threads
+---> Process  148 of 240 active on cnode0216                   (PID:   151270) using 1 threads
+---> Process  170 of 240 active on cnode0218                   (PID:   141958) using 1 threads
+---> Process   13 of 240 active on cnode0159                   (PID:   122719) using 1 threads
+---> Process  206 of 240 active on cnode0220                   (PID:    79983) using 1 threads
+---> Process   95 of 240 active on cnode0193                   (PID:   139630) using 1 threads
+---> Process  217 of 240 active on cnode0224                   (PID:    79180) using 1 threads
+---> Process   42 of 240 active on cnode0182                   (PID:    38664) using 1 threads
+---> Process  119 of 240 active on cnode0202                   (PID:   104730) using 1 threads
+---> Process   51 of 240 active on cnode0190                   (PID:    82108) using 1 threads
+---> Process  131 of 240 active on cnode0191                   (PID:   125222) using 1 threads
+---> Process  149 of 240 active on cnode0216                   (PID:   151271) using 1 threads
+---> Process  171 of 240 active on cnode0218                   (PID:   141959) using 1 threads
+---> Process   16 of 240 active on cnode0159                   (PID:   122722) using 1 threads
+---> Process  208 of 240 active on cnode0220                   (PID:    79985) using 1 threads
+---> Process   75 of 240 active on cnode0193                   (PID:   139610) using 1 threads
+---> Process  223 of 240 active on cnode0224                   (PID:    79186) using 1 threads
+---> Process   44 of 240 active on cnode0182                   (PID:    38666) using 1 threads
+---> Process   98 of 240 active on cnode0202                   (PID:   104709) using 1 threads
+---> Process   52 of 240 active on cnode0190                   (PID:    82109) using 1 threads
+---> Process  132 of 240 active on cnode0191                   (PID:   125223) using 1 threads
+---> Process  150 of 240 active on cnode0216                   (PID:   151272) using 1 threads
+---> Process  173 of 240 active on cnode0218                   (PID:   141961) using 1 threads
+---> Process   17 of 240 active on cnode0159                   (PID:   122723) using 1 threads
+---> Process  209 of 240 active on cnode0220                   (PID:    79986) using 1 threads
+---> Process   77 of 240 active on cnode0193                   (PID:   139612) using 1 threads
+---> Process  224 of 240 active on cnode0224                   (PID:    79187) using 1 threads
+---> Process   30 of 240 active on cnode0182                   (PID:    38652) using 1 threads
+---> Process  102 of 240 active on cnode0202                   (PID:   104713) using 1 threads
+---> Process   53 of 240 active on cnode0190                   (PID:    82110) using 1 threads
+---> Process  133 of 240 active on cnode0191                   (PID:   125224) using 1 threads
+---> Process  152 of 240 active on cnode0216                   (PID:   151274) using 1 threads
+---> Process  174 of 240 active on cnode0218                   (PID:   141962) using 1 threads
+---> Process   20 of 240 active on cnode0159                   (PID:   122726) using 1 threads
+---> Process  212 of 240 active on cnode0220                   (PID:    79989) using 1 threads
+---> Process   78 of 240 active on cnode0193                   (PID:   139613) using 1 threads
+---> Process  230 of 240 active on cnode0224                   (PID:    79193) using 1 threads
+---> Process   37 of 240 active on cnode0182                   (PID:    38659) using 1 threads
+---> Process  103 of 240 active on cnode0202                   (PID:   104714) using 1 threads
+---> Process   55 of 240 active on cnode0190                   (PID:    82112) using 1 threads
+---> Process  134 of 240 active on cnode0191                   (PID:   125225) using 1 threads
+---> Process  153 of 240 active on cnode0216                   (PID:   151275) using 1 threads
+---> Process  176 of 240 active on cnode0218                   (PID:   141964) using 1 threads
+---> Process   14 of 240 active on cnode0159                   (PID:   122720) using 1 threads
+---> Process  215 of 240 active on cnode0220                   (PID:    79992) using 1 threads
+---> Process   79 of 240 active on cnode0193                   (PID:   139614) using 1 threads
+---> Process  232 of 240 active on cnode0224                   (PID:    79195) using 1 threads
+---> Process   39 of 240 active on cnode0182                   (PID:    38661) using 1 threads
+---> Process  104 of 240 active on cnode0202                   (PID:   104715) using 1 threads
+---> Process   56 of 240 active on cnode0190                   (PID:    82113) using 1 threads
+---> Process  137 of 240 active on cnode0191                   (PID:   125228) using 1 threads
+---> Process  154 of 240 active on cnode0216                   (PID:   151276) using 1 threads
+---> Process  183 of 240 active on cnode0218                   (PID:   141971) using 1 threads
+---> Process   21 of 240 active on cnode0159                   (PID:   122727) using 1 threads
+---> Process  195 of 240 active on cnode0220                   (PID:    79972) using 1 threads
+---> Process   81 of 240 active on cnode0193                   (PID:   139616) using 1 threads
+---> Process  237 of 240 active on cnode0224                   (PID:    79200) using 1 threads
+---> Process   45 of 240 active on cnode0182                   (PID:    38667) using 1 threads
+---> Process  106 of 240 active on cnode0202                   (PID:   104717) using 1 threads
+---> Process   57 of 240 active on cnode0190                   (PID:    82114) using 1 threads
+---> Process  139 of 240 active on cnode0191                   (PID:   125230) using 1 threads
+---> Process  155 of 240 active on cnode0216                   (PID:   151277) using 1 threads
+---> Process  189 of 240 active on cnode0218                   (PID:   141978) using 1 threads
+---> Process  196 of 240 active on cnode0220                   (PID:    79973) using 1 threads
+---> Process   83 of 240 active on cnode0193                   (PID:   139618) using 1 threads
+---> Process  238 of 240 active on cnode0224                   (PID:    79201) using 1 threads
+---> Process   27 of 240 active on cnode0182                   (PID:    38649) using 1 threads
+---> Process  107 of 240 active on cnode0202                   (PID:   104718) using 1 threads
+---> Process   59 of 240 active on cnode0190                   (PID:    82116) using 1 threads
+---> Process  142 of 240 active on cnode0191                   (PID:   125233) using 1 threads
+---> Process  156 of 240 active on cnode0216                   (PID:   151278) using 1 threads
+---> Process  175 of 240 active on cnode0218                   (PID:   141963) using 1 threads
+---> Process  197 of 240 active on cnode0220                   (PID:    79974) using 1 threads
+---> Process   86 of 240 active on cnode0193                   (PID:   139621) using 1 threads
+---> Process  227 of 240 active on cnode0224                   (PID:    79190) using 1 threads
+---> Process   33 of 240 active on cnode0182                   (PID:    38655) using 1 threads
+---> Process  108 of 240 active on cnode0202                   (PID:   104719) using 1 threads
+---> Process   61 of 240 active on cnode0190                   (PID:    82118) using 1 threads
+---> Process  143 of 240 active on cnode0191                   (PID:   125234) using 1 threads
+---> Process  157 of 240 active on cnode0216                   (PID:   151279) using 1 threads
+---> Process  178 of 240 active on cnode0218                   (PID:   141966) using 1 threads
+---> Process  200 of 240 active on cnode0220                   (PID:    79977) using 1 threads
+---> Process   87 of 240 active on cnode0193                   (PID:   139622) using 1 threads
+---> Process  236 of 240 active on cnode0224                   (PID:    79199) using 1 threads
+---> Process   35 of 240 active on cnode0182                   (PID:    38657) using 1 threads
+---> Process  115 of 240 active on cnode0202                   (PID:   104726) using 1 threads
+---> Process   62 of 240 active on cnode0190                   (PID:    82119) using 1 threads
+---> Process  121 of 240 active on cnode0191                   (PID:   125212) using 1 threads
+---> Process  158 of 240 active on cnode0216                   (PID:   151280) using 1 threads
+---> Process  179 of 240 active on cnode0218                   (PID:   141967) using 1 threads
+---> Process  204 of 240 active on cnode0220                   (PID:    79981) using 1 threads
+---> Process   91 of 240 active on cnode0193                   (PID:   139626) using 1 threads
+---> Process  239 of 240 active on cnode0224                   (PID:    79202) using 1 threads
+---> Process   47 of 240 active on cnode0182                   (PID:    38669) using 1 threads
+---> Process  118 of 240 active on cnode0202                   (PID:   104729) using 1 threads
+---> Process   65 of 240 active on cnode0190                   (PID:    82122) using 1 threads
+---> Process  123 of 240 active on cnode0191                   (PID:   125214) using 1 threads
+---> Process  159 of 240 active on cnode0216                   (PID:   151281) using 1 threads
+---> Process  181 of 240 active on cnode0218                   (PID:   141969) using 1 threads
+---> Process  214 of 240 active on cnode0220                   (PID:    79991) using 1 threads
+---> Process   92 of 240 active on cnode0193                   (PID:   139627) using 1 threads
+---> Process  226 of 240 active on cnode0224                   (PID:    79189) using 1 threads
+---> Process   31 of 240 active on cnode0182                   (PID:    38653) using 1 threads
+---> Process   99 of 240 active on cnode0202                   (PID:   104710) using 1 threads
+---> Process   67 of 240 active on cnode0190                   (PID:    82124) using 1 threads
+---> Process  135 of 240 active on cnode0191                   (PID:   125226) using 1 threads
+---> Process  164 of 240 active on cnode0216                   (PID:   151286) using 1 threads
+---> Process  186 of 240 active on cnode0218                   (PID:   141974) using 1 threads
+---> Process  198 of 240 active on cnode0220                   (PID:    79975) using 1 threads
+---> Process   94 of 240 active on cnode0193                   (PID:   139629) using 1 threads
+---> Process  231 of 240 active on cnode0224                   (PID:    79194) using 1 threads
+---> Process   43 of 240 active on cnode0182                   (PID:    38665) using 1 threads
+---> Process  114 of 240 active on cnode0202                   (PID:   104725) using 1 threads
+---> Process   69 of 240 active on cnode0190                   (PID:    82126) using 1 threads
+---> Process  141 of 240 active on cnode0191                   (PID:   125232) using 1 threads
+---> Process  167 of 240 active on cnode0216                   (PID:   151289) using 1 threads
+---> Process  187 of 240 active on cnode0218                   (PID:   141975) using 1 threads
+---> Process  199 of 240 active on cnode0220                   (PID:    79976) using 1 threads
+---> Process   72 of 240 active on cnode0193                   (PID:   139607) using 1 threads
+---> Process  235 of 240 active on cnode0224                   (PID:    79198) using 1 threads
+---> Process   71 of 240 active on cnode0190                   (PID:    82128) using 1 threads
+---> Process  130 of 240 active on cnode0191                   (PID:   125221) using 1 threads
+---> Process  166 of 240 active on cnode0216                   (PID:   151288) using 1 threads
+---> Process  191 of 240 active on cnode0218                   (PID:   141980) using 1 threads
+---> Process  211 of 240 active on cnode0220                   (PID:    79988) using 1 threads
+---> Process  233 of 240 active on cnode0224                   (PID:    79196) using 1 threads
+---> Process   63 of 240 active on cnode0190                   (PID:    82120) using 1 threads
+---> Process  190 of 240 active on cnode0218                   (PID:   141979) using 1 threads
+---> Process  207 of 240 active on cnode0220                   (PID:    79984) using 1 threads
+---> Process    7 of 240 active on cnode0159                   (PID:   122713) using 1 threads
+---> Process   11 of 240 active on cnode0159                   (PID:   122717) using 1 threads
+---> Process   15 of 240 active on cnode0159                   (PID:   122721) using 1 threads
+---> Process   19 of 240 active on cnode0159                   (PID:   122725) using 1 threads
+---> Process   23 of 240 active on cnode0159                   (PID:   122730) using 1 threads
+---> Process    3 of 240 active on cnode0159                   (PID:   122709) using 1 threads
+---> Process  109 of 240 active on cnode0202                   (PID:   104720) using 1 threads
+---> Process   25 of 240 active on cnode0182                   (PID:    38647) using 1 threads
+---> Process  221 of 240 active on cnode0224                   (PID:    79184) using 1 threads
+ Processing the geometrical data for triangles
+   Creating edge interconnectivity data for triangles
+    0%   74%  100%  
+ The following message from the master process (MYID= 0):
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+    See also message in the output file 5_unknowns_10_nodes.out
+ --- Processing frequency 1 of 2 ( 9.82926E+09 Hz)
+ --- Direction of incidence loop: 1 of 2
+ The following message from the master process (MYID= 0):
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+    See also message in the output file 5_unknowns_10_nodes.out
+ Checking the geometrical input data (frequency dependent)
+ Parallel in-core solution (using block size 128, storage scheme 1)
+ --> Currently a memory of 178.763 MByte has been allocated per process
+     In total, this corresponds to 40.697 GByte for all processes
+     (peak memory usage of 178.763 MByte per process so far)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    4%    5%    7%    8%    9%   11%   12%   15%   16%   18%   19%   20%   22%   23%   25%   26%   27%   29%   30%   31%   33%   34%   37%   38%   41%   42%   44%   45%   48%   49%   52%   53%   55%   56%   57%   59%   60%   63%   64%   66%   67%   68%   70%   71%   74%   75%   78%   79%   81%   82%   83%   85%   86%   89%   90%   93%   94%   96%   97%   98%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    4%    9%   13%   18%   23%   27%   32%   37%   41%   46%   51%   55%   60%   64%   69%   73%   78%   82%   87%   92%   97%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    1%    2%    3%    4%    5%    6%    7%    8%    9%   10%   11%   12%   13%   14%   15%   16%   17%   18%   19%   20%   21%   22%   23%   24%   25%   26%   27%   28%   29%   30%   31%   32%   33%   34%   35%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63%   64%   65%   66%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   81%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+  100%  
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+   13%  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+    0%    3%    6%   72%  100%  
+ Calculate the magnetic near field
+   78%  100%  
+ --- Direction of incidence loop: 2 of 2
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+   67%  100%  
+ Calculate the magnetic near field
+   76%  100%  
+ --- Processing frequency 2 of 2 ( 1.17951E+10 Hz)
+ --- Direction of incidence loop: 1 of 2
+ Checking the geometrical input data (frequency dependent)
+ Calculation of the elements of MoM submatrices
+   Efficient precalculation of triangle integrals
+    0%    1%    4%    5%    7%    8%    9%   11%   12%   15%   16%   18%   19%   22%   23%   25%   26%   27%   29%   30%   31%   33%   34%   37%   38%   41%   42%   44%   45%   48%   49%   52%   53%   55%   56%   57%   59%   60%   63%   64%   66%   67%   68%   70%   71%   74%   75%   78%   79%   81%   82%   83%   85%   86%   89%   90%   93%   94%   96%   97%   98%  100%  
+   Calculation of submatrices A1x (100% of the full matrix)
+    4%    9%   14%   18%   23%   27%   32%   37%   41%   46%   50%   55%   59%   64%   69%   73%   78%   83%   87%   92%   97%  100%  
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   LU decomposition of the matrix
+    0%    1%    2%    3%    4%    5%    6%    7%    8%    9%   10%   11%   12%   13%   14%   15%   16%   17%   18%   19%   20%   21%   22%   23%   24%   25%   26%   27%   28%   29%   30%   31%   32%   33%   34%   35%   36%   37%   38%   39%   40%   41%   42%   43%   44%   45%   46%   47%   48%   49%   50%   51%   52%   53%   54%   55%   56%   57%   58%   59%   60%   61%   62%   63%   64%   65%   66%   67%   68%   69%   70%   71%   72%   73%   74%   75%   76%   77%   78%   79%   80%   81%   82%   83%   84%   85%   86%   87%   88%   89%   90%   91%   92%   93%   94%   95%   96%   97%   98%   99%  100%  100%  
+  100%  
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+   53%  100%  
+ Calculate the magnetic near field
+   57%  100%  
+ --- Direction of incidence loop: 2 of 2
+ Calculation of the elements of right-hand side vector
+ Solution of the linear set of equations with SCALAGAU
+   Backward substitution
+ Determination of the impedances and powers
+    0%  100%  
+ Calculate the far field
+   Grouping and boxing for far field calculations
+   Using fast far field calculations
+   Calculation of the far field directions
+   Calculation of the Legendre polynomials
+  100%  
+   Precomputation of far field coefficients
+  100%  
+   Precomputation of far field tables
+  100%  
+   Computation of the far field values in the frequency domain
+  100%  
+   Exporting of the far field values
+  100%  
+ Calculate the electric near field
+   23%  100%  
+ Calculate the magnetic near field
+   23%  100%  
+
+Finished

@@ -1,0 +1,2 @@
+=>> PBS: job killed: walltime 1822 exceeded limit 1800
+-bash: line 1: 169295 Terminated              /var/spool/PBS/mom_priv/jobs/1911444.sched01.SC

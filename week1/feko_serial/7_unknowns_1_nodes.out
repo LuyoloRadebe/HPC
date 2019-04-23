@@ -1,0 +1,194 @@
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07 [FEK: default 164; used 164] BINARY
+          CADFEKO version unknown
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+          Intel(R) MKL version 2018.0.1 (build 20171007) on Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2) enabled processors, Intel(R) 64 architecture (1 thread)
+Computer: PC LINUX EM64T MKL IMPI -- cnode0021
+          Linux x86_64 3.10.0-514.6.1.el7.x86_64
+          Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz; GenuineIntel family 6 model 63 stepping 2 brand id 0
+          2 physical CPUs with a total of 24 processors found (multi-core CPUs with max. 12 cores per physical CPU)
+Threads:  OpenMP threading not used
+Date:     2019-04-20 20:25:43                     
+File:     7_unknowns_1_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 114.981 GByte)
+MD5 Check:7FC4C17226D2E07CAAE37D900B23C4A0
+MD5 Total:49266B115CA23FED906ADA897FEFD5FA
+ Licence:  Altair HyperWorks
+
+Number of parallel processes:    24 on 2 CPUs
+
+Master process    0 on machine: cnode0021                      using 1 threads
+Server process    1 on machine: cnode0021                      using 1 threads
+Server process    2 on machine: cnode0021                      using 1 threads
+Server process    3 on machine: cnode0021                      using 1 threads
+Server process    4 on machine: cnode0021                      using 1 threads
+Server process    5 on machine: cnode0021                      using 1 threads
+Server process    6 on machine: cnode0021                      using 1 threads
+Server process    7 on machine: cnode0021                      using 1 threads
+Server process    8 on machine: cnode0021                      using 1 threads
+Server process    9 on machine: cnode0021                      using 1 threads
+Server process   10 on machine: cnode0021                      using 1 threads
+Server process   11 on machine: cnode0021                      using 1 threads
+Server process   12 on machine: cnode0021                      using 1 threads
+Server process   13 on machine: cnode0021                      using 1 threads
+Server process   14 on machine: cnode0021                      using 1 threads
+Server process   15 on machine: cnode0021                      using 1 threads
+Server process   16 on machine: cnode0021                      using 1 threads
+Server process   17 on machine: cnode0021                      using 1 threads
+Server process   18 on machine: cnode0021                      using 1 threads
+Server process   19 on machine: cnode0021                      using 1 threads
+Server process   20 on machine: cnode0021                      using 1 threads
+Server process   21 on machine: cnode0021                      using 1 threads
+Server process   22 on machine: cnode0021                      using 1 threads
+Server process   23 on machine: cnode0021                      using 1 threads
+
+
+Spice Engine:  HyperSpice Version 2018-19795 from 2018-10-18
+
+
+                    YZ-plane is a geometric plane of symmetry
+
+          Mirroring in YZ-plane: 
+                              8424 metallic triangles
+
+                    XZ-plane is a geometric plane of symmetry
+
+          Mirroring in XZ-plane: 
+                             16848 metallic triangles
+
+                    XY-plane is a geometric plane of symmetry
+
+          Mirroring in XY-plane: 
+                             33696 metallic triangles
+
+          Surface of all triangles in m*m:     1.39538E-01
+
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+
+
+                                DATA FOR MEMORY USAGE
+
+ Number of metallic triangles:           67392                                max. triangles:    MAXNDR    =    67392
+ Number of dielectric triangles:             0
+ Number of aperture triangles:               0
+ Number of RL-GO triangles:                  0
+ Number of windscreen triangles:             0
+ Number of FEM surface triangles:            0
+ Number of modal port triangles:             0
+ Number of metallic segments:                0                                max. segments:     MAXNSEG   =        0
+ Number of combined MoM/MTL segments:        0
+ Number of dielectr./magnet. cuboids:        0                                max. cuboids:      MAXNQUA   =        0
+ Number of tetrahedra:                       0                                max. tetrahedra:   MAXNTETRA =        0
+ Number of edges in PO region:               0                                max. edges:        MAXPOKA   =        0
+ Number of wedges in PO region:              0                                max. wedges:       MAXPOKL   =        0
+ Number of Fock regions:                     0                                max. Fock regions: MAXFOGE   =        0
+ Number of polygonal surfaces:               0                                max. surfaces:     MAXPOLYF  =        0
+                                                                              max. corner pts.:  MAXPOLYP  =        0
+ Number of UTD cylinders:                    0
+
+ Number of metallic edges (MoM):        101088  unknown:   101088 (electr.)   max. edges:        MAXNKA    =   101088
+                                             0  unknown:        0 (magnet.)
+ Number of metallic edges (PO):              0  unknown:        0 (electr.)
+                                                unknown:        0 (magnet.)
+ Number of dielectric edges (MoM):           0  unknown:        0 (electr.)
+                                             0                  0 (magnet.)
+ Number of dielectric edges (PO):            0  unknown:        0 (electr.)
+                                                unknown:        0 (magnet.)
+ Number of aperture edges (MoM):             0  unknown:        0 (magnet.) 
+ Number of edges FEM/MoM surface:            0  unknown:        0 (electr.)
+                                             0                  0 (magnet.)
+ Number of nodes between segments:           0  unknown:        0             max. nodes:        MAXNKNO   =        0
+ Number of connection points:                0  unknown:        0             max. conn.:        MAXNV     =        0
+ Number of dielectric cuboids:               0  unknown:        0             max. cuboids:      MAXNQUA   =        0
+ Number of magnetic cuboids:                 0  unknown:        0
+ Number of dielectric faces (VEP):           0  unknown:        0
+ Number of magnetic faces (VEP):             0  unknown:        0
+
+ Number of basis funct. for MoM:        101088  unknown:   101088             max. basisf.       MAXNZEILE =   101088
+ Number of basis funct. for PO:              0  unknown:        0             max. basisf.       MAXNKAPO  =        0
+
+ read from input file:
+FR       1    0    0    0    0 1.376E+10 0.000E+00 1.376E+10 0.000E+00 0.000E+00 0.000E+00 0.000E+00 0.000E+00
+ read from input file:
+A0       0    0    2    1    0 1.000E+00 0.000E+00 3.000E+01 0.000E+00 7.000E+01 2.000E+01 0.000E+00 0.000E+00
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+                The following frequency setting terminated the loop over angles of incidence:
+                FR       1    0    0    0    0 1.651E+10 0.000E+00 1.651E+10 0.000E+00 0.000E+00 0.000E+00 0.000E+00 0.000E+00
+ read from buffer:
+FF       3   19   37    0    0 5.000E+00 5.000E+00 1.000E+01 1.000E+01 0.000E+00 0.000E+00 0.000E+00 0.000E+00
+
+
+                                   DATA FOR DIELECTRIC MEDIA
+
+internal  relative     relative  conductivity   tan(delta)    tan(delta)    wavelength   mass density    volume     medium
+index  permittivity permeability   in S/m       (electric)    (magnetic)       in m       in kg/m^3      in m^3
+    0      1.00000      1.00000  0.00000E+00   0.00000E+00   0.00000E+00   2.17857E-02   0.00000E+00    infinite    Free space
+
+
+
+               EXCITATION BY INCIDENT PLANE ELECTROMAGNETIC WAVE 
+
+ Name:                          
+ Excitation index:              1
+ Frequency in Hz:               FREQ =    1.37610E+10
+ Wavelength in m:               LAMBDA =  2.17857E-02
+ Direction of incidence:        THETA =   30.00  PHI =    0.00
+ Polarisation:                  LINEAR
+ Axial ratio:                   V =      0.0000
+ Polarisation angle:            ETA =   70.00
+ Direction of propagation:      BETA0X = -5.00000E-01
+   (unit vector)                BETA0Y =  0.00000E+00
+                                BETA0Z = -8.66025E-01
+ Wave number:                   BETA0  = ( 2.88409E+02 +j 0.00000E+00)
+ Phase reference point in m:    x =  0.00000E+00, y =  0.00000E+00, z =  0.00000E+00
+ Field strength in V/m:         |E0X| =  2.96198E-01   ARG(E0X) =   180.00
+   (Phase in degrees)           |E0Y| =  9.39693E-01   ARG(E0Y) =     0.00
+                                |E0Z| =  1.71010E-01   ARG(E0Z) =     0.00
+
+
+                         DATA FOR THE GREEN'S FUNCTION
+
+                                   free space
+
+
+               All segments and triangles are perfectly conducting.
+
+ Distributed storage of MoM matrix for parallel version
+
+               DISTRIBUTED OUT-OF-CORE STORAGE OF MATRIX
+
+   Filetype (distributed, shared, interlaced): D 
+   Number of rows of the matrix:                      101088
+   Number of columns of the matrix:                   101088
+   Number of rows of the process grid:                    24
+   Number of columns of the process grid:                  1
+   Block size:                                            64
+   Theoretical load in percent:                        99.72 %
+   Number of rows of local matrix (proc. 0):              64
+   Number of columns of local mat.(proc. 0):          101088
+   Local memory requirement for matrix:             12939264 complex numbers
+   (corresponds to 197.438 MByte)
+   Number of rows of the IO record:                     3072
+   Number of columns of the IO record:                    64
+   Hard disk memory usage (all processes):       10251141120 complex numbers
+   (corresponds to 152.754 GByte)
+
+ Storage using double precision
+
+ Memory requirement for in-core MoM matrix: 64 rows * 101088 columns = 6469632 complex numbers
+ For the MoM matrix, a memory of 12939264 complex numbers is used (i.e. 197.438 MByte)
+
+     Per process, 203.421 MByte of memory has been allocated dynamically,
+     which corresponds to 4.768 GByte in total for all processes together
+     (peak memory usage of 222.931 MByte per process so far)
+
+
+     No efficient calculation of the matrix elements for triangles
+
+ NOTE      154: Usage of symmetry only possible in part since matrix is in a file
+ ERROR    3617: Feko process was terminated by kill
+
+Aborted: 2019-04-20 20:56:09                     

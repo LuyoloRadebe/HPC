@@ -1,0 +1,77 @@
+The nodefile for this job is stored at /var/spool/PBS/aux/1913770.sched01
+Number of cores assigned: 48
+Hello world from process 24 of 25 on processor cnode0394 
+Process 24 has my_random = 24
+Hello world from process 1 of 25 on processor cnode0377 
+Process 1 has my_random = 1
+Hello world from process 7 of 25 on processor cnode0377 
+Process 7 has my_random = 7
+Hello world from process 9 of 25 on processor cnode0377 
+Process 9 has my_random = 9
+Hello world from process 11 of 25 on processor cnode0377 
+Process 11 has my_random = 11
+Hello world from process 12 of 25 on processor cnode0377 
+Process 12 has my_random = 12
+Hello world from process 13 of 25 on processor cnode0377 
+Process 13 has my_random = 13
+Hello world from process 15 of 25 on processor cnode0377 
+Process 15 has my_random = 15
+Hello world from process 18 of 25 on processor cnode0377 
+Process 18 has my_random = 18
+Hello world from process 19 of 25 on processor cnode0377 
+Process 19 has my_random = 19
+Hello world from process 20 of 25 on processor cnode0377 
+Process 20 has my_random = 20
+Hello world from process 8 of 25 on processor cnode0377 
+Process 8 has my_random = 8
+Hello world from process 10 of 25 on processor cnode0377 
+Process 10 has my_random = 10
+Hello world from process 14 of 25 on processor cnode0377 
+Process 14 has my_random = 14
+Hello world from process 17 of 25 on processor cnode0377 
+Process 17 has my_random = 17
+Hello world from process 21 of 25 on processor cnode0377 
+Process 21 has my_random = 21
+Hello world from process 22 of 25 on processor cnode0377 
+Process 22 has my_random = 22
+Hello world from process 0 of 25 on processor cnode0377 
+Process 0 has my_random = 0
+Hello world from process 2 of 25 on processor cnode0377 
+Process 2 has my_random = 2
+Hello world from process 3 of 25 on processor cnode0377 
+Process 3 has my_random = 3
+Hello world from process 4 of 25 on processor cnode0377 
+Process 4 has my_random = 4
+Hello world from process 5 of 25 on processor cnode0377 
+Process 5 has my_random = 5
+Hello world from process 6 of 25 on processor cnode0377 
+Process 6 has my_random = 6
+Hello world from process 16 of 25 on processor cnode0377 
+Process 16 has my_random = 16
+Hello world from process 23 of 25 on processor cnode0377 
+Process 23 has my_random = 23
+Result 300 on process 21
+Result 300 on process 16
+Result 300 on process 23
+Result 300 on process 5
+Result 300 on process 1
+Result 300 on process 8
+Result 300 on process 9
+Result 300 on process 12
+Result 300 on process 13
+Result 300 on process 19
+Result 300 on process 17
+Result 300 on process 0
+Result 300 on process 4
+Result 300 on process 22
+Result 300 on process 11
+Result 300 on process 18
+Result 300 on process 2
+Result 300 on process 3
+Result 300 on process 10
+Result 300 on process 20
+Result 300 on process 7
+Result 300 on process 6
+Result 300 on process 14
+Result 300 on process 15
+Result 300 on process 24

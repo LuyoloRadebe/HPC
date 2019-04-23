@@ -1,0 +1,8 @@
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],4]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],6]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],7]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],1]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],3]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],5]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],0]: 1.8.8 instead of 1.10.2
+[cnode0095:31647] [[45357,0],0] tcp_peer_recv_connect_ack: received different version from [[45357,1],2]: 1.8.8 instead of 1.10.2

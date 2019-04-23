@@ -1,0 +1,3 @@
+The nodefile for this job is stored at /var/spool/PBS/aux/1913948.sched01
+Number of cores assigned: 192
+Bubblesort 4141382 ints on 8 procs: 1009.508301 secs

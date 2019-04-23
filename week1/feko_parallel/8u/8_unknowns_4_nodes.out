@@ -1,0 +1,255 @@
+Altair Feko - Solver (par) Version 2018.2.1-566 from 2018-12-13
+          Altair Feko - PREFEKO Version 2018.2.1-63 from 2018-12-07 [FEK: default 164; used 164] BINARY
+          CADFEKO version unknown
+          Copyright (c) 1999-2014 Altair Development S.A. (Pty) Ltd
+          Copyright (c) 2014-2018 Altair Engineering, Inc.
+          Intel(R) MKL version 2018.0.1 (build 20171007) on Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2) enabled processors, Intel(R) 64 architecture (1 thread)
+Computer: PC LINUX EM64T MKL IMPI -- cnode0154
+          Linux x86_64 3.10.0-514.6.1.el7.x86_64
+          Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz; GenuineIntel family 6 model 63 stepping 2 brand id 0
+          2 physical CPUs with a total of 24 processors found (multi-core CPUs with max. 12 cores per physical CPU)
+Threads:  OpenMP threading not used
+Date:     2019-04-20 21:12:21                     
+File:     8_unknowns_4_nodes
+Memory:   Limited to 5.208 GByte, reason 48
+          (for parallel runs memory limit is per process)
+          (installed memory 125.807 GByte, thereof free 109.604 GByte)
+MD5 Check:16A26CA9BC9B1317EF5747609EE0749C
+MD5 Total:58EA2E1E13A3084E6B3045BA03C4B482
+ Licence:  Altair HyperWorks
+
+Number of parallel processes:    96 on 8 CPUs
+
+Master process    0 on machine: cnode0154                      using 1 threads
+Server process    1 on machine: cnode0154                      using 1 threads
+Server process    2 on machine: cnode0154                      using 1 threads
+Server process    3 on machine: cnode0154                      using 1 threads
+Server process    4 on machine: cnode0154                      using 1 threads
+Server process    5 on machine: cnode0154                      using 1 threads
+Server process    6 on machine: cnode0154                      using 1 threads
+Server process    7 on machine: cnode0154                      using 1 threads
+Server process    8 on machine: cnode0154                      using 1 threads
+Server process    9 on machine: cnode0154                      using 1 threads
+Server process   10 on machine: cnode0154                      using 1 threads
+Server process   11 on machine: cnode0154                      using 1 threads
+Server process   12 on machine: cnode0154                      using 1 threads
+Server process   13 on machine: cnode0154                      using 1 threads
+Server process   14 on machine: cnode0154                      using 1 threads
+Server process   15 on machine: cnode0154                      using 1 threads
+Server process   16 on machine: cnode0154                      using 1 threads
+Server process   17 on machine: cnode0154                      using 1 threads
+Server process   18 on machine: cnode0154                      using 1 threads
+Server process   19 on machine: cnode0154                      using 1 threads
+Server process   20 on machine: cnode0154                      using 1 threads
+Server process   21 on machine: cnode0154                      using 1 threads
+Server process   22 on machine: cnode0154                      using 1 threads
+Server process   23 on machine: cnode0154                      using 1 threads
+Server process   24 on machine: cnode0155                      using 1 threads
+Server process   25 on machine: cnode0155                      using 1 threads
+Server process   26 on machine: cnode0155                      using 1 threads
+Server process   27 on machine: cnode0155                      using 1 threads
+Server process   28 on machine: cnode0155                      using 1 threads
+Server process   29 on machine: cnode0155                      using 1 threads
+Server process   30 on machine: cnode0155                      using 1 threads
+Server process   31 on machine: cnode0155                      using 1 threads
+Server process   32 on machine: cnode0155                      using 1 threads
+Server process   33 on machine: cnode0155                      using 1 threads
+Server process   34 on machine: cnode0155                      using 1 threads
+Server process   35 on machine: cnode0155                      using 1 threads
+Server process   36 on machine: cnode0155                      using 1 threads
+Server process   37 on machine: cnode0155                      using 1 threads
+Server process   38 on machine: cnode0155                      using 1 threads
+Server process   39 on machine: cnode0155                      using 1 threads
+Server process   40 on machine: cnode0155                      using 1 threads
+Server process   41 on machine: cnode0155                      using 1 threads
+Server process   42 on machine: cnode0155                      using 1 threads
+Server process   43 on machine: cnode0155                      using 1 threads
+Server process   44 on machine: cnode0155                      using 1 threads
+Server process   45 on machine: cnode0155                      using 1 threads
+Server process   46 on machine: cnode0155                      using 1 threads
+Server process   47 on machine: cnode0155                      using 1 threads
+Server process   48 on machine: cnode0156                      using 1 threads
+Server process   49 on machine: cnode0156                      using 1 threads
+Server process   50 on machine: cnode0156                      using 1 threads
+Server process   51 on machine: cnode0156                      using 1 threads
+Server process   52 on machine: cnode0156                      using 1 threads
+Server process   53 on machine: cnode0156                      using 1 threads
+Server process   54 on machine: cnode0156                      using 1 threads
+Server process   55 on machine: cnode0156                      using 1 threads
+Server process   56 on machine: cnode0156                      using 1 threads
+Server process   57 on machine: cnode0156                      using 1 threads
+Server process   58 on machine: cnode0156                      using 1 threads
+Server process   59 on machine: cnode0156                      using 1 threads
+Server process   60 on machine: cnode0156                      using 1 threads
+Server process   61 on machine: cnode0156                      using 1 threads
+Server process   62 on machine: cnode0156                      using 1 threads
+Server process   63 on machine: cnode0156                      using 1 threads
+Server process   64 on machine: cnode0156                      using 1 threads
+Server process   65 on machine: cnode0156                      using 1 threads
+Server process   66 on machine: cnode0156                      using 1 threads
+Server process   67 on machine: cnode0156                      using 1 threads
+Server process   68 on machine: cnode0156                      using 1 threads
+Server process   69 on machine: cnode0156                      using 1 threads
+Server process   70 on machine: cnode0156                      using 1 threads
+Server process   71 on machine: cnode0156                      using 1 threads
+Server process   72 on machine: cnode0160                      using 1 threads
+Server process   73 on machine: cnode0160                      using 1 threads
+Server process   74 on machine: cnode0160                      using 1 threads
+Server process   75 on machine: cnode0160                      using 1 threads
+Server process   76 on machine: cnode0160                      using 1 threads
+Server process   77 on machine: cnode0160                      using 1 threads
+Server process   78 on machine: cnode0160                      using 1 threads
+Server process   79 on machine: cnode0160                      using 1 threads
+Server process   80 on machine: cnode0160                      using 1 threads
+Server process   81 on machine: cnode0160                      using 1 threads
+Server process   82 on machine: cnode0160                      using 1 threads
+Server process   83 on machine: cnode0160                      using 1 threads
+Server process   84 on machine: cnode0160                      using 1 threads
+Server process   85 on machine: cnode0160                      using 1 threads
+Server process   86 on machine: cnode0160                      using 1 threads
+Server process   87 on machine: cnode0160                      using 1 threads
+Server process   88 on machine: cnode0160                      using 1 threads
+Server process   89 on machine: cnode0160                      using 1 threads
+Server process   90 on machine: cnode0160                      using 1 threads
+Server process   91 on machine: cnode0160                      using 1 threads
+Server process   92 on machine: cnode0160                      using 1 threads
+Server process   93 on machine: cnode0160                      using 1 threads
+Server process   94 on machine: cnode0160                      using 1 threads
+Server process   95 on machine: cnode0160                      using 1 threads
+
+
+Spice Engine:  HyperSpice Version 2018-19795 from 2018-10-18
+
+
+                    YZ-plane is a geometric plane of symmetry
+
+          Mirroring in YZ-plane: 
+                             10984 metallic triangles
+
+                    XZ-plane is a geometric plane of symmetry
+
+          Mirroring in XZ-plane: 
+                             21968 metallic triangles
+
+                    XY-plane is a geometric plane of symmetry
+
+          Mirroring in XY-plane: 
+                             43936 metallic triangles
+
+          Surface of all triangles in m*m:     1.39538E-01
+
+ WARNING 33563: Frequency independent geometry checking (mesh overlaps etc.) is switched off
+
+
+                                DATA FOR MEMORY USAGE
+
+ Number of metallic triangles:           87872                                max. triangles:    MAXNDR    =    87872
+ Number of dielectric triangles:             0
+ Number of aperture triangles:               0
+ Number of RL-GO triangles:                  0
+ Number of windscreen triangles:             0
+ Number of FEM surface triangles:            0
+ Number of modal port triangles:             0
+ Number of metallic segments:                0                                max. segments:     MAXNSEG   =        0
+ Number of combined MoM/MTL segments:        0
+ Number of dielectr./magnet. cuboids:        0                                max. cuboids:      MAXNQUA   =        0
+ Number of tetrahedra:                       0                                max. tetrahedra:   MAXNTETRA =        0
+ Number of edges in PO region:               0                                max. edges:        MAXPOKA   =        0
+ Number of wedges in PO region:              0                                max. wedges:       MAXPOKL   =        0
+ Number of Fock regions:                     0                                max. Fock regions: MAXFOGE   =        0
+ Number of polygonal surfaces:               0                                max. surfaces:     MAXPOLYF  =        0
+                                                                              max. corner pts.:  MAXPOLYP  =        0
+ Number of UTD cylinders:                    0
+
+ Number of metallic edges (MoM):        131808  unknown:   131808 (electr.)   max. edges:        MAXNKA    =   131808
+                                             0  unknown:        0 (magnet.)
+ Number of metallic edges (PO):              0  unknown:        0 (electr.)
+                                                unknown:        0 (magnet.)
+ Number of dielectric edges (MoM):           0  unknown:        0 (electr.)
+                                             0                  0 (magnet.)
+ Number of dielectric edges (PO):            0  unknown:        0 (electr.)
+                                                unknown:        0 (magnet.)
+ Number of aperture edges (MoM):             0  unknown:        0 (magnet.) 
+ Number of edges FEM/MoM surface:            0  unknown:        0 (electr.)
+                                             0                  0 (magnet.)
+ Number of nodes between segments:           0  unknown:        0             max. nodes:        MAXNKNO   =        0
+ Number of connection points:                0  unknown:        0             max. conn.:        MAXNV     =        0
+ Number of dielectric cuboids:               0  unknown:        0             max. cuboids:      MAXNQUA   =        0
+ Number of magnetic cuboids:                 0  unknown:        0
+ Number of dielectric faces (VEP):           0  unknown:        0
+ Number of magnetic faces (VEP):             0  unknown:        0
+
+ Number of basis funct. for MoM:        131808  unknown:   131808             max. basisf.       MAXNZEILE =   131808
+ Number of basis funct. for PO:              0  unknown:        0             max. basisf.       MAXNKAPO  =        0
+
+ read from input file:
+FR       1    0    0    0    0 1.573E+10 0.000E+00 1.573E+10 0.000E+00 0.000E+00 0.000E+00 0.000E+00 0.000E+00
+ read from input file:
+A0       0    0    2    1    0 1.000E+00 0.000E+00 3.000E+01 0.000E+00 7.000E+01 2.000E+01 0.000E+00 0.000E+00
+ NOTE    33644: Single frequency inside a loop over angles of plane wave incidence not allowed due to backwards compatibility reasons, plane wave loop ending
+                The following frequency setting terminated the loop over angles of incidence:
+                FR       1    0    0    0    0 1.887E+10 0.000E+00 1.887E+10 0.000E+00 0.000E+00 0.000E+00 0.000E+00 0.000E+00
+ read from buffer:
+FF       3   19   37    0    0 5.000E+00 5.000E+00 1.000E+01 1.000E+01 0.000E+00 0.000E+00 0.000E+00 0.000E+00
+
+
+                                   DATA FOR DIELECTRIC MEDIA
+
+internal  relative     relative  conductivity   tan(delta)    tan(delta)    wavelength   mass density    volume     medium
+index  permittivity permeability   in S/m       (electric)    (magnetic)       in m       in kg/m^3      in m^3
+    0      1.00000      1.00000  0.00000E+00   0.00000E+00   0.00000E+00   1.90625E-02   0.00000E+00    infinite    Free space
+
+
+
+               EXCITATION BY INCIDENT PLANE ELECTROMAGNETIC WAVE 
+
+ Name:                          
+ Excitation index:              1
+ Frequency in Hz:               FREQ =    1.57268E+10
+ Wavelength in m:               LAMBDA =  1.90625E-02
+ Direction of incidence:        THETA =   30.00  PHI =    0.00
+ Polarisation:                  LINEAR
+ Axial ratio:                   V =      0.0000
+ Polarisation angle:            ETA =   70.00
+ Direction of propagation:      BETA0X = -5.00000E-01
+   (unit vector)                BETA0Y =  0.00000E+00
+                                BETA0Z = -8.66025E-01
+ Wave number:                   BETA0  = ( 3.29610E+02 +j 0.00000E+00)
+ Phase reference point in m:    x =  0.00000E+00, y =  0.00000E+00, z =  0.00000E+00
+ Field strength in V/m:         |E0X| =  2.96198E-01   ARG(E0X) =   180.00
+   (Phase in degrees)           |E0Y| =  9.39693E-01   ARG(E0Y) =     0.00
+                                |E0Z| =  1.71010E-01   ARG(E0Z) =     0.00
+
+
+                         DATA FOR THE GREEN'S FUNCTION
+
+                                   free space
+
+
+               All segments and triangles are perfectly conducting.
+
+ Distributed storage of MoM matrix for parallel version
+
+                    DISTRIBUTED STORAGE OF MATRIX
+
+   Storage scheme: 1
+   Number of rows of the matrix:                      131808
+   Number of columns of the matrix:                   131808
+   Number of rows of the process grid:                     8
+   Number of columns of the process grid:                 12
+   Block size:                                           128
+   Theoretical load in percent:                        97.51 %
+   Number of rows of local matrix (proc. 0):           16512
+   Number of columns of local mat.(proc. 0):           11008
+   Local memory requirement for matrix:            181764096 complex numbers
+   (corresponds to 2.708 GByte)
+
+ Storage using double precision
+
+ Memory requirement for MoM matrix: 131808 rows * 131808 columns = 17373348864 complex numbers
+ For the MoM matrix, a memory of 181764096 complex numbers is used (i.e. 2.708 GByte)
+
+     Per process, 2.716 GByte of memory has been allocated dynamically,
+     which corresponds to 259.640 GByte in total for all processes together
+     (peak memory usage of 2.716 GByte per process so far)
+
